@@ -1,0 +1,280 @@
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划总时间： 95476.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划总时间： 61578.0
+
+规划次数： 41.0
+
+规划次数： 49.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划平均时间： 2328.6829
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划平均时间： 1256.6938
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp节点数目： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp节点数目： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lispHTN深度： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lispHTN深度： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp保存规划时间： 17
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp保存规划时间： 15
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp重规划时间： 5
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp重规划时间： 1
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划总时间： 414.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划总时间： 688.0
+
+规划次数： 61.0
+
+规划次数： 57.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划平均时间： 6.7868853
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划平均时间： 12.070175
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp节点数目： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp节点数目： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lispHTN深度： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lispHTN深度： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp保存规划时间： 5
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp保存规划时间： 8
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp重规划时间： 0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp重规划时间： 2
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划总时间： 317.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划总时间： 497.0
+
+规划次数： 44.0
+
+规划次数： 51.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划平均时间： 7.2045455
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划平均时间： 9.745098
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp节点数目： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp节点数目： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lispHTN深度： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lispHTN深度： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp保存规划时间： 7
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp保存规划时间： 3
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp重规划时间： 1
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp重规划时间： 1
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划总时间： 524.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划总时间： 607.0
+
+规划次数： 60.0
+
+规划次数： 44.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划平均时间： 8.733334
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划平均时间： 13.795455
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp节点数目： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp节点数目： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lispHTN深度： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lispHTN深度： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp保存规划时间： 7
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp保存规划时间： 5
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp重规划时间： 0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp重规划时间： 1
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划总时间： 161.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划总时间： 200.0
+
+规划次数： 26.0
+
+规划次数： 31.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划平均时间： 6.1923075
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划平均时间： 6.451613
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp节点数目： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp节点数目： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lispHTN深度： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lispHTN深度： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp保存规划时间： 4
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp保存规划时间： 6
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp重规划时间： 1
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp重规划时间： 0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划总时间： 335.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划总时间： 236.0
+
+规划次数： 55.0
+
+规划次数： 68.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划平均时间： 6.090909
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划平均时间： 3.4705882
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp节点数目： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp节点数目： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lispHTN深度： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lispHTN深度： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp保存规划时间： 5
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp保存规划时间： 6
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp重规划时间： 1
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp重规划时间： 0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划总时间： 377.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划总时间： 233.0
+
+规划次数： 57.0
+
+规划次数： 52.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划平均时间： 6.614035
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划平均时间： 4.480769
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp节点数目： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp节点数目： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lispHTN深度： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lispHTN深度： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp保存规划时间： 4
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp保存规划时间： 6
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp重规划时间： 0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp重规划时间： 0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划总时间： 762.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划总时间： 469.0
+
+规划次数： 46.0
+
+规划次数： 59.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划平均时间： 16.565218
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划平均时间： 7.9491525
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp节点数目： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp节点数目： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lispHTN深度： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lispHTN深度： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp保存规划时间： 5
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp保存规划时间： 4
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp重规划时间： 0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp重规划时间： 0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划总时间： 344.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划总时间： 208.0
+
+规划次数： 52.0
+
+规划次数： 52.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划平均时间： 6.6153846
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划平均时间： 4.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp节点数目： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp节点数目： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lispHTN深度： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lispHTN深度： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp保存规划时间： 5
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp保存规划时间： 4
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp重规划时间： 0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp重规划时间： 0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划总时间： 638.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划总时间： 301.0
+
+规划次数： 75.0
+
+规划次数： 77.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划平均时间： 8.506667
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp规划平均时间： 3.909091
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp节点数目： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp节点数目： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lispHTN深度： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lispHTN深度： 0.0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp保存规划时间： 7
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp保存规划时间： 4
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp重规划时间： 0
+
+EnhanceAHTNAI:E:\MK\myProject\ahtn2\ahtntest\ahtn\microrts-ahtn-definition-low-level-phase.lisp重规划时间： 0
+

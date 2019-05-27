@@ -1,0 +1,4150 @@
+MATCH UP: RandomBiasedAI vs RandomBiasedAI
+第0次结束
+
+MATCH UP: RandomBiasedAI vs RandomBiasedAI
+第1次结束
+
+MATCH UP: RandomBiasedAI vs RandomBiasedAI
+第2次结束
+
+MATCH UP: RandomBiasedAI vs RandomBiasedAI
+第3次结束
+
+MATCH UP: RandomBiasedAI vs RandomBiasedAI
+第4次结束
+
+MATCH UP: RandomBiasedAI vs RandomBiasedAI
+第5次结束
+
+MATCH UP: RandomBiasedAI vs RandomBiasedAI
+第6次结束
+
+MATCH UP: RandomBiasedAI vs RandomBiasedAI
+第7次结束
+
+MATCH UP: RandomBiasedAI vs RandomBiasedAI
+第8次结束
+
+MATCH UP: RandomBiasedAI vs RandomBiasedAI
+第9次结束
+
+RandomBiasedAI失败修复的次数： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+RandomBiasedAI规划总时间： 32.0
+
+RandomBiasedAI规划总时间： 12.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+RandomBiasedAI规划平均总时间： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+RandomBiasedAI重规划总时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+RandomBiasedAI重规划总时间： 0
+
+MATCH UP: RandomBiasedAI vs LightRush
+第0次结束
+
+MATCH UP: RandomBiasedAI vs LightRush
+第1次结束
+
+MATCH UP: RandomBiasedAI vs LightRush
+第2次结束
+
+MATCH UP: RandomBiasedAI vs LightRush
+第3次结束
+
+MATCH UP: RandomBiasedAI vs LightRush
+第4次结束
+
+MATCH UP: RandomBiasedAI vs LightRush
+第5次结束
+
+MATCH UP: RandomBiasedAI vs LightRush
+第6次结束
+
+MATCH UP: RandomBiasedAI vs LightRush
+第7次结束
+
+MATCH UP: RandomBiasedAI vs LightRush
+第8次结束
+
+MATCH UP: RandomBiasedAI vs LightRush
+第9次结束
+
+RandomBiasedAI失败修复的次数： 0
+
+LightRush失败修复的次数： 0
+
+RandomBiasedAI规划总时间： 0.0
+
+LightRush规划总时间： 21.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+LightRush规划平均总时间： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+LightRush重规划总时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+LightRush重规划总时间： 0
+
+MATCH UP: RandomBiasedAI vs HeavyRush
+第0次结束
+
+MATCH UP: RandomBiasedAI vs HeavyRush
+第1次结束
+
+MATCH UP: RandomBiasedAI vs HeavyRush
+第2次结束
+
+MATCH UP: RandomBiasedAI vs HeavyRush
+第3次结束
+
+MATCH UP: RandomBiasedAI vs HeavyRush
+第4次结束
+
+MATCH UP: RandomBiasedAI vs HeavyRush
+第5次结束
+
+MATCH UP: RandomBiasedAI vs HeavyRush
+第6次结束
+
+MATCH UP: RandomBiasedAI vs HeavyRush
+第7次结束
+
+MATCH UP: RandomBiasedAI vs HeavyRush
+第8次结束
+
+MATCH UP: RandomBiasedAI vs HeavyRush
+第9次结束
+
+RandomBiasedAI失败修复的次数： 0
+
+HeavyRush失败修复的次数： 0
+
+RandomBiasedAI规划总时间： 6.0
+
+HeavyRush规划总时间： 38.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+HeavyRush规划平均总时间： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+HeavyRush重规划总时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+HeavyRush重规划总时间： 0
+
+MATCH UP: RandomBiasedAI vs UCT(10)
+第0次结束
+
+MATCH UP: RandomBiasedAI vs UCT(10)
+第1次结束
+
+MATCH UP: RandomBiasedAI vs UCT(10)
+第2次结束
+
+MATCH UP: RandomBiasedAI vs UCT(10)
+第3次结束
+
+MATCH UP: RandomBiasedAI vs UCT(10)
+第4次结束
+
+MATCH UP: RandomBiasedAI vs UCT(10)
+第5次结束
+
+MATCH UP: RandomBiasedAI vs UCT(10)
+第6次结束
+
+MATCH UP: RandomBiasedAI vs UCT(10)
+第7次结束
+
+MATCH UP: RandomBiasedAI vs UCT(10)
+第8次结束
+
+MATCH UP: RandomBiasedAI vs UCT(10)
+第9次结束
+
+RandomBiasedAI失败修复的次数： 0
+
+UCT(10)失败修复的次数： 0
+
+RandomBiasedAI规划总时间： 14.0
+
+UCT(10)规划总时间： 210.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+UCT(10)规划平均总时间： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+UCT(10)重规划总时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+UCT(10)重规划总时间： 0
+
+MATCH UP: RandomBiasedAI vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+第0次结束
+
+MATCH UP: RandomBiasedAI vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+第1次结束
+
+MATCH UP: RandomBiasedAI vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第2次结束
+
+MATCH UP: RandomBiasedAI vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第3次结束
+
+MATCH UP: RandomBiasedAI vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第4次结束
+
+MATCH UP: RandomBiasedAI vs EnhanceAHTNAI:0
+repair by plan
+
+第5次结束
+
+MATCH UP: RandomBiasedAI vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第6次结束
+
+MATCH UP: RandomBiasedAI vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第7次结束
+
+MATCH UP: RandomBiasedAI vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第8次结束
+
+MATCH UP: RandomBiasedAI vs EnhanceAHTNAI:0
+repair by plan
+
+repair failed
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第9次结束
+
+RandomBiasedAI失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 31
+
+RandomBiasedAI规划总时间： 2.0
+
+EnhanceAHTNAI:0规划总时间： 5993.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+EnhanceAHTNAI:0规划平均总时间： 2.0
+
+RandomBiasedAI保存规划时间： 0
+
+EnhanceAHTNAI:0重规划总时间： 2177
+
+RandomBiasedAI保存规划时间： 0
+
+EnhanceAHTNAI:0重规划总时间： 3
+
+MATCH UP: RandomBiasedAI vs EnhanceAHTNAI:0
+repair by plan
+
+第0次结束
+
+MATCH UP: RandomBiasedAI vs EnhanceAHTNAI:0
+repair by plan
+
+第1次结束
+
+MATCH UP: RandomBiasedAI vs EnhanceAHTNAI:0
+repair by plan
+
+第2次结束
+
+MATCH UP: RandomBiasedAI vs EnhanceAHTNAI:0
+repair by plan
+
+第3次结束
+
+MATCH UP: RandomBiasedAI vs EnhanceAHTNAI:0
+repair by plan
+
+第4次结束
+
+MATCH UP: RandomBiasedAI vs EnhanceAHTNAI:0
+repair by plan
+
+第5次结束
+
+MATCH UP: RandomBiasedAI vs EnhanceAHTNAI:0
+第6次结束
+
+MATCH UP: RandomBiasedAI vs EnhanceAHTNAI:0
+repair by plan
+
+第7次结束
+
+MATCH UP: RandomBiasedAI vs EnhanceAHTNAI:0
+repair by plan
+
+第8次结束
+
+MATCH UP: RandomBiasedAI vs EnhanceAHTNAI:0
+repair by plan
+
+第9次结束
+
+RandomBiasedAI失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 9
+
+RandomBiasedAI规划总时间： 0.0
+
+EnhanceAHTNAI:0规划总时间： 3526.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+EnhanceAHTNAI:0规划平均总时间： 6.0
+
+RandomBiasedAI保存规划时间： 0
+
+EnhanceAHTNAI:0重规划总时间： 50
+
+RandomBiasedAI保存规划时间： 0
+
+EnhanceAHTNAI:0重规划总时间： 1
+
+MATCH UP: RandomBiasedAI vs AHTNAI:
+第0次结束
+
+MATCH UP: RandomBiasedAI vs AHTNAI:
+第1次结束
+
+MATCH UP: RandomBiasedAI vs AHTNAI:
+第2次结束
+
+MATCH UP: RandomBiasedAI vs AHTNAI:
+第3次结束
+
+MATCH UP: RandomBiasedAI vs AHTNAI:
+第4次结束
+
+MATCH UP: RandomBiasedAI vs AHTNAI:
+第5次结束
+
+MATCH UP: RandomBiasedAI vs AHTNAI:
+第6次结束
+
+MATCH UP: RandomBiasedAI vs AHTNAI:
+第7次结束
+
+MATCH UP: RandomBiasedAI vs AHTNAI:
+第8次结束
+
+MATCH UP: RandomBiasedAI vs AHTNAI:
+第9次结束
+
+RandomBiasedAI失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+RandomBiasedAI规划总时间： 6.0
+
+AHTNAI:规划总时间： 2783.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+AHTNAI:规划平均总时间： 1.0
+
+RandomBiasedAI保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+MATCH UP: RandomBiasedAI vs AHTNAI:
+第0次结束
+
+MATCH UP: RandomBiasedAI vs AHTNAI:
+第1次结束
+
+MATCH UP: RandomBiasedAI vs AHTNAI:
+第2次结束
+
+MATCH UP: RandomBiasedAI vs AHTNAI:
+第3次结束
+
+MATCH UP: RandomBiasedAI vs AHTNAI:
+第4次结束
+
+MATCH UP: RandomBiasedAI vs AHTNAI:
+第5次结束
+
+MATCH UP: RandomBiasedAI vs AHTNAI:
+第6次结束
+
+MATCH UP: RandomBiasedAI vs AHTNAI:
+第7次结束
+
+MATCH UP: RandomBiasedAI vs AHTNAI:
+第8次结束
+
+MATCH UP: RandomBiasedAI vs AHTNAI:
+第9次结束
+
+RandomBiasedAI失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+RandomBiasedAI规划总时间： 1.0
+
+AHTNAI:规划总时间： 2360.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+AHTNAI:规划平均总时间： 1.0
+
+RandomBiasedAI保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+MATCH UP: LightRush vs RandomBiasedAI
+第0次结束
+
+MATCH UP: LightRush vs RandomBiasedAI
+第1次结束
+
+MATCH UP: LightRush vs RandomBiasedAI
+第2次结束
+
+MATCH UP: LightRush vs RandomBiasedAI
+第3次结束
+
+MATCH UP: LightRush vs RandomBiasedAI
+第4次结束
+
+MATCH UP: LightRush vs RandomBiasedAI
+第5次结束
+
+MATCH UP: LightRush vs RandomBiasedAI
+第6次结束
+
+MATCH UP: LightRush vs RandomBiasedAI
+第7次结束
+
+MATCH UP: LightRush vs RandomBiasedAI
+第8次结束
+
+MATCH UP: LightRush vs RandomBiasedAI
+第9次结束
+
+LightRush失败修复的次数： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+LightRush规划总时间： 3.0
+
+RandomBiasedAI规划总时间： 0.0
+
+LightRush规划平均时间： 0.0
+
+RandomBiasedAI规划平均总时间： 0.0
+
+LightRush保存规划时间： 0
+
+RandomBiasedAI重规划总时间： 0
+
+LightRush保存规划时间： 0
+
+RandomBiasedAI重规划总时间： 0
+
+MATCH UP: LightRush vs LightRush
+第0次结束
+
+MATCH UP: LightRush vs LightRush
+第1次结束
+
+MATCH UP: LightRush vs LightRush
+第2次结束
+
+MATCH UP: LightRush vs LightRush
+第3次结束
+
+MATCH UP: LightRush vs LightRush
+第4次结束
+
+MATCH UP: LightRush vs LightRush
+第5次结束
+
+MATCH UP: LightRush vs LightRush
+第6次结束
+
+MATCH UP: LightRush vs LightRush
+第7次结束
+
+MATCH UP: LightRush vs LightRush
+第8次结束
+
+MATCH UP: LightRush vs LightRush
+第9次结束
+
+LightRush失败修复的次数： 0
+
+LightRush失败修复的次数： 0
+
+LightRush规划总时间： 0.0
+
+LightRush规划总时间： 1.0
+
+LightRush规划平均时间： 0.0
+
+LightRush规划平均总时间： 0.0
+
+LightRush保存规划时间： 0
+
+LightRush重规划总时间： 0
+
+LightRush保存规划时间： 0
+
+LightRush重规划总时间： 0
+
+MATCH UP: LightRush vs HeavyRush
+第0次结束
+
+MATCH UP: LightRush vs HeavyRush
+第1次结束
+
+MATCH UP: LightRush vs HeavyRush
+第2次结束
+
+MATCH UP: LightRush vs HeavyRush
+第3次结束
+
+MATCH UP: LightRush vs HeavyRush
+第4次结束
+
+MATCH UP: LightRush vs HeavyRush
+第5次结束
+
+MATCH UP: LightRush vs HeavyRush
+第6次结束
+
+MATCH UP: LightRush vs HeavyRush
+第7次结束
+
+MATCH UP: LightRush vs HeavyRush
+第8次结束
+
+MATCH UP: LightRush vs HeavyRush
+第9次结束
+
+LightRush失败修复的次数： 0
+
+HeavyRush失败修复的次数： 0
+
+LightRush规划总时间： 0.0
+
+HeavyRush规划总时间： 1.0
+
+LightRush规划平均时间： 0.0
+
+HeavyRush规划平均总时间： 0.0
+
+LightRush保存规划时间： 0
+
+HeavyRush重规划总时间： 0
+
+LightRush保存规划时间： 0
+
+HeavyRush重规划总时间： 0
+
+MATCH UP: LightRush vs UCT(10)
+第0次结束
+
+MATCH UP: LightRush vs UCT(10)
+第1次结束
+
+MATCH UP: LightRush vs UCT(10)
+第2次结束
+
+MATCH UP: LightRush vs UCT(10)
+第3次结束
+
+MATCH UP: LightRush vs UCT(10)
+第4次结束
+
+MATCH UP: LightRush vs UCT(10)
+第5次结束
+
+MATCH UP: LightRush vs UCT(10)
+第6次结束
+
+MATCH UP: LightRush vs UCT(10)
+第7次结束
+
+MATCH UP: LightRush vs UCT(10)
+第8次结束
+
+MATCH UP: LightRush vs UCT(10)
+第9次结束
+
+LightRush失败修复的次数： 0
+
+UCT(10)失败修复的次数： 0
+
+LightRush规划总时间： 4.0
+
+UCT(10)规划总时间： 5.0
+
+LightRush规划平均时间： 0.0
+
+UCT(10)规划平均总时间： 0.0
+
+LightRush保存规划时间： 0
+
+UCT(10)重规划总时间： 0
+
+LightRush保存规划时间： 0
+
+UCT(10)重规划总时间： 0
+
+MATCH UP: LightRush vs EnhanceAHTNAI:0
+第0次结束
+
+MATCH UP: LightRush vs EnhanceAHTNAI:0
+第1次结束
+
+MATCH UP: LightRush vs EnhanceAHTNAI:0
+第2次结束
+
+MATCH UP: LightRush vs EnhanceAHTNAI:0
+第3次结束
+
+MATCH UP: LightRush vs EnhanceAHTNAI:0
+第4次结束
+
+MATCH UP: LightRush vs EnhanceAHTNAI:0
+第5次结束
+
+MATCH UP: LightRush vs EnhanceAHTNAI:0
+第6次结束
+
+MATCH UP: LightRush vs EnhanceAHTNAI:0
+第7次结束
+
+MATCH UP: LightRush vs EnhanceAHTNAI:0
+第8次结束
+
+MATCH UP: LightRush vs EnhanceAHTNAI:0
+第9次结束
+
+LightRush失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 0
+
+LightRush规划总时间： 2.0
+
+EnhanceAHTNAI:0规划总时间： 522.0
+
+LightRush规划平均时间： 0.0
+
+EnhanceAHTNAI:0规划平均总时间： 0.0
+
+LightRush保存规划时间： 0
+
+EnhanceAHTNAI:0重规划总时间： 16
+
+LightRush保存规划时间： 0
+
+EnhanceAHTNAI:0重规划总时间： 0
+
+MATCH UP: LightRush vs EnhanceAHTNAI:0
+第0次结束
+
+MATCH UP: LightRush vs EnhanceAHTNAI:0
+第1次结束
+
+MATCH UP: LightRush vs EnhanceAHTNAI:0
+第2次结束
+
+MATCH UP: LightRush vs EnhanceAHTNAI:0
+第3次结束
+
+MATCH UP: LightRush vs EnhanceAHTNAI:0
+第4次结束
+
+MATCH UP: LightRush vs EnhanceAHTNAI:0
+第5次结束
+
+MATCH UP: LightRush vs EnhanceAHTNAI:0
+第6次结束
+
+MATCH UP: LightRush vs EnhanceAHTNAI:0
+第7次结束
+
+MATCH UP: LightRush vs EnhanceAHTNAI:0
+第8次结束
+
+MATCH UP: LightRush vs EnhanceAHTNAI:0
+第9次结束
+
+LightRush失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 0
+
+LightRush规划总时间： 2.0
+
+EnhanceAHTNAI:0规划总时间： 2859.0
+
+LightRush规划平均时间： 0.0
+
+EnhanceAHTNAI:0规划平均总时间： 9.0
+
+LightRush保存规划时间： 0
+
+EnhanceAHTNAI:0重规划总时间： 44
+
+LightRush保存规划时间： 0
+
+EnhanceAHTNAI:0重规划总时间： 0
+
+MATCH UP: LightRush vs AHTNAI:
+第0次结束
+
+MATCH UP: LightRush vs AHTNAI:
+第1次结束
+
+MATCH UP: LightRush vs AHTNAI:
+第2次结束
+
+MATCH UP: LightRush vs AHTNAI:
+第3次结束
+
+MATCH UP: LightRush vs AHTNAI:
+第4次结束
+
+MATCH UP: LightRush vs AHTNAI:
+第5次结束
+
+MATCH UP: LightRush vs AHTNAI:
+第6次结束
+
+MATCH UP: LightRush vs AHTNAI:
+第7次结束
+
+MATCH UP: LightRush vs AHTNAI:
+第8次结束
+
+MATCH UP: LightRush vs AHTNAI:
+第9次结束
+
+LightRush失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+LightRush规划总时间： 4.0
+
+AHTNAI:规划总时间： 398.0
+
+LightRush规划平均时间： 0.0
+
+AHTNAI:规划平均总时间： 0.0
+
+LightRush保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+LightRush保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+MATCH UP: LightRush vs AHTNAI:
+第0次结束
+
+MATCH UP: LightRush vs AHTNAI:
+第1次结束
+
+MATCH UP: LightRush vs AHTNAI:
+第2次结束
+
+MATCH UP: LightRush vs AHTNAI:
+第3次结束
+
+MATCH UP: LightRush vs AHTNAI:
+第4次结束
+
+MATCH UP: LightRush vs AHTNAI:
+第5次结束
+
+MATCH UP: LightRush vs AHTNAI:
+第6次结束
+
+MATCH UP: LightRush vs AHTNAI:
+第7次结束
+
+MATCH UP: LightRush vs AHTNAI:
+第8次结束
+
+MATCH UP: LightRush vs AHTNAI:
+第9次结束
+
+LightRush失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+LightRush规划总时间： 4.0
+
+AHTNAI:规划总时间： 1625.0
+
+LightRush规划平均时间： 0.0
+
+AHTNAI:规划平均总时间： 0.0
+
+LightRush保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+LightRush保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+MATCH UP: HeavyRush vs RandomBiasedAI
+第0次结束
+
+MATCH UP: HeavyRush vs RandomBiasedAI
+第1次结束
+
+MATCH UP: HeavyRush vs RandomBiasedAI
+第2次结束
+
+MATCH UP: HeavyRush vs RandomBiasedAI
+第3次结束
+
+MATCH UP: HeavyRush vs RandomBiasedAI
+第4次结束
+
+MATCH UP: HeavyRush vs RandomBiasedAI
+第5次结束
+
+MATCH UP: HeavyRush vs RandomBiasedAI
+第6次结束
+
+MATCH UP: HeavyRush vs RandomBiasedAI
+第7次结束
+
+MATCH UP: HeavyRush vs RandomBiasedAI
+第8次结束
+
+MATCH UP: HeavyRush vs RandomBiasedAI
+第9次结束
+
+HeavyRush失败修复的次数： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+HeavyRush规划总时间： 6.0
+
+RandomBiasedAI规划总时间： 0.0
+
+HeavyRush规划平均时间： 0.0
+
+RandomBiasedAI规划平均总时间： 0.0
+
+HeavyRush保存规划时间： 0
+
+RandomBiasedAI重规划总时间： 0
+
+HeavyRush保存规划时间： 0
+
+RandomBiasedAI重规划总时间： 0
+
+MATCH UP: HeavyRush vs LightRush
+第0次结束
+
+MATCH UP: HeavyRush vs LightRush
+第1次结束
+
+MATCH UP: HeavyRush vs LightRush
+第2次结束
+
+MATCH UP: HeavyRush vs LightRush
+第3次结束
+
+MATCH UP: HeavyRush vs LightRush
+第4次结束
+
+MATCH UP: HeavyRush vs LightRush
+第5次结束
+
+MATCH UP: HeavyRush vs LightRush
+第6次结束
+
+MATCH UP: HeavyRush vs LightRush
+第7次结束
+
+MATCH UP: HeavyRush vs LightRush
+第8次结束
+
+MATCH UP: HeavyRush vs LightRush
+第9次结束
+
+HeavyRush失败修复的次数： 0
+
+LightRush失败修复的次数： 0
+
+HeavyRush规划总时间： 1.0
+
+LightRush规划总时间： 0.0
+
+HeavyRush规划平均时间： 0.0
+
+LightRush规划平均总时间： 0.0
+
+HeavyRush保存规划时间： 0
+
+LightRush重规划总时间： 0
+
+HeavyRush保存规划时间： 0
+
+LightRush重规划总时间： 0
+
+MATCH UP: HeavyRush vs HeavyRush
+第0次结束
+
+MATCH UP: HeavyRush vs HeavyRush
+第1次结束
+
+MATCH UP: HeavyRush vs HeavyRush
+第2次结束
+
+MATCH UP: HeavyRush vs HeavyRush
+第3次结束
+
+MATCH UP: HeavyRush vs HeavyRush
+第4次结束
+
+MATCH UP: HeavyRush vs HeavyRush
+第5次结束
+
+MATCH UP: HeavyRush vs HeavyRush
+第6次结束
+
+MATCH UP: HeavyRush vs HeavyRush
+第7次结束
+
+MATCH UP: HeavyRush vs HeavyRush
+第8次结束
+
+MATCH UP: HeavyRush vs HeavyRush
+第9次结束
+
+HeavyRush失败修复的次数： 0
+
+HeavyRush失败修复的次数： 0
+
+HeavyRush规划总时间： 1.0
+
+HeavyRush规划总时间： 2.0
+
+HeavyRush规划平均时间： 0.0
+
+HeavyRush规划平均总时间： 0.0
+
+HeavyRush保存规划时间： 0
+
+HeavyRush重规划总时间： 0
+
+HeavyRush保存规划时间： 0
+
+HeavyRush重规划总时间： 0
+
+MATCH UP: HeavyRush vs UCT(10)
+第0次结束
+
+MATCH UP: HeavyRush vs UCT(10)
+第1次结束
+
+MATCH UP: HeavyRush vs UCT(10)
+第2次结束
+
+MATCH UP: HeavyRush vs UCT(10)
+第3次结束
+
+MATCH UP: HeavyRush vs UCT(10)
+第4次结束
+
+MATCH UP: HeavyRush vs UCT(10)
+第5次结束
+
+MATCH UP: HeavyRush vs UCT(10)
+第6次结束
+
+MATCH UP: HeavyRush vs UCT(10)
+第7次结束
+
+MATCH UP: HeavyRush vs UCT(10)
+第8次结束
+
+MATCH UP: HeavyRush vs UCT(10)
+第9次结束
+
+HeavyRush失败修复的次数： 0
+
+UCT(10)失败修复的次数： 0
+
+HeavyRush规划总时间： 3.0
+
+UCT(10)规划总时间： 30.0
+
+HeavyRush规划平均时间： 0.0
+
+UCT(10)规划平均总时间： 0.0
+
+HeavyRush保存规划时间： 0
+
+UCT(10)重规划总时间： 0
+
+HeavyRush保存规划时间： 0
+
+UCT(10)重规划总时间： 0
+
+MATCH UP: HeavyRush vs EnhanceAHTNAI:0
+第0次结束
+
+MATCH UP: HeavyRush vs EnhanceAHTNAI:0
+第1次结束
+
+MATCH UP: HeavyRush vs EnhanceAHTNAI:0
+第2次结束
+
+MATCH UP: HeavyRush vs EnhanceAHTNAI:0
+第3次结束
+
+MATCH UP: HeavyRush vs EnhanceAHTNAI:0
+第4次结束
+
+MATCH UP: HeavyRush vs EnhanceAHTNAI:0
+第5次结束
+
+MATCH UP: HeavyRush vs EnhanceAHTNAI:0
+第6次结束
+
+MATCH UP: HeavyRush vs EnhanceAHTNAI:0
+第7次结束
+
+MATCH UP: HeavyRush vs EnhanceAHTNAI:0
+第8次结束
+
+MATCH UP: HeavyRush vs EnhanceAHTNAI:0
+第9次结束
+
+HeavyRush失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 0
+
+HeavyRush规划总时间： 0.0
+
+EnhanceAHTNAI:0规划总时间： 523.0
+
+HeavyRush规划平均时间： 0.0
+
+EnhanceAHTNAI:0规划平均总时间： 0.0
+
+HeavyRush保存规划时间： 0
+
+EnhanceAHTNAI:0重规划总时间： 17
+
+HeavyRush保存规划时间： 0
+
+EnhanceAHTNAI:0重规划总时间： 0
+
+MATCH UP: HeavyRush vs EnhanceAHTNAI:0
+第0次结束
+
+MATCH UP: HeavyRush vs EnhanceAHTNAI:0
+第1次结束
+
+MATCH UP: HeavyRush vs EnhanceAHTNAI:0
+第2次结束
+
+MATCH UP: HeavyRush vs EnhanceAHTNAI:0
+第3次结束
+
+MATCH UP: HeavyRush vs EnhanceAHTNAI:0
+第4次结束
+
+MATCH UP: HeavyRush vs EnhanceAHTNAI:0
+第5次结束
+
+MATCH UP: HeavyRush vs EnhanceAHTNAI:0
+第6次结束
+
+MATCH UP: HeavyRush vs EnhanceAHTNAI:0
+第7次结束
+
+MATCH UP: HeavyRush vs EnhanceAHTNAI:0
+第8次结束
+
+MATCH UP: HeavyRush vs EnhanceAHTNAI:0
+第9次结束
+
+HeavyRush失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 0
+
+HeavyRush规划总时间： 4.0
+
+EnhanceAHTNAI:0规划总时间： 3269.0
+
+HeavyRush规划平均时间： 0.0
+
+EnhanceAHTNAI:0规划平均总时间： 10.0
+
+HeavyRush保存规划时间： 0
+
+EnhanceAHTNAI:0重规划总时间： 41
+
+HeavyRush保存规划时间： 0
+
+EnhanceAHTNAI:0重规划总时间： 0
+
+MATCH UP: HeavyRush vs AHTNAI:
+第0次结束
+
+MATCH UP: HeavyRush vs AHTNAI:
+第1次结束
+
+MATCH UP: HeavyRush vs AHTNAI:
+第2次结束
+
+MATCH UP: HeavyRush vs AHTNAI:
+第3次结束
+
+MATCH UP: HeavyRush vs AHTNAI:
+第4次结束
+
+MATCH UP: HeavyRush vs AHTNAI:
+第5次结束
+
+MATCH UP: HeavyRush vs AHTNAI:
+第6次结束
+
+MATCH UP: HeavyRush vs AHTNAI:
+第7次结束
+
+MATCH UP: HeavyRush vs AHTNAI:
+第8次结束
+
+MATCH UP: HeavyRush vs AHTNAI:
+第9次结束
+
+HeavyRush失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+HeavyRush规划总时间： 2.0
+
+AHTNAI:规划总时间： 619.0
+
+HeavyRush规划平均时间： 0.0
+
+AHTNAI:规划平均总时间： 0.0
+
+HeavyRush保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+HeavyRush保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+MATCH UP: HeavyRush vs AHTNAI:
+第0次结束
+
+MATCH UP: HeavyRush vs AHTNAI:
+第1次结束
+
+MATCH UP: HeavyRush vs AHTNAI:
+第2次结束
+
+MATCH UP: HeavyRush vs AHTNAI:
+第3次结束
+
+MATCH UP: HeavyRush vs AHTNAI:
+第4次结束
+
+MATCH UP: HeavyRush vs AHTNAI:
+第5次结束
+
+MATCH UP: HeavyRush vs AHTNAI:
+第6次结束
+
+MATCH UP: HeavyRush vs AHTNAI:
+第7次结束
+
+MATCH UP: HeavyRush vs AHTNAI:
+第8次结束
+
+MATCH UP: HeavyRush vs AHTNAI:
+第9次结束
+
+HeavyRush失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+HeavyRush规划总时间： 10.0
+
+AHTNAI:规划总时间： 2254.0
+
+HeavyRush规划平均时间： 0.0
+
+AHTNAI:规划平均总时间： 8.0
+
+HeavyRush保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+HeavyRush保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+MATCH UP: UCT(10) vs RandomBiasedAI
+第0次结束
+
+MATCH UP: UCT(10) vs RandomBiasedAI
+第1次结束
+
+MATCH UP: UCT(10) vs RandomBiasedAI
+第2次结束
+
+MATCH UP: UCT(10) vs RandomBiasedAI
+第3次结束
+
+MATCH UP: UCT(10) vs RandomBiasedAI
+第4次结束
+
+MATCH UP: UCT(10) vs RandomBiasedAI
+第5次结束
+
+MATCH UP: UCT(10) vs RandomBiasedAI
+第6次结束
+
+MATCH UP: UCT(10) vs RandomBiasedAI
+第7次结束
+
+MATCH UP: UCT(10) vs RandomBiasedAI
+第8次结束
+
+MATCH UP: UCT(10) vs RandomBiasedAI
+第9次结束
+
+UCT(10)失败修复的次数： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+UCT(10)规划总时间： 98.0
+
+RandomBiasedAI规划总时间： 0.0
+
+UCT(10)规划平均时间： 0.0
+
+RandomBiasedAI规划平均总时间： 0.0
+
+UCT(10)保存规划时间： 0
+
+RandomBiasedAI重规划总时间： 0
+
+UCT(10)保存规划时间： 0
+
+RandomBiasedAI重规划总时间： 0
+
+MATCH UP: UCT(10) vs LightRush
+第0次结束
+
+MATCH UP: UCT(10) vs LightRush
+第1次结束
+
+MATCH UP: UCT(10) vs LightRush
+第2次结束
+
+MATCH UP: UCT(10) vs LightRush
+第3次结束
+
+MATCH UP: UCT(10) vs LightRush
+第4次结束
+
+MATCH UP: UCT(10) vs LightRush
+第5次结束
+
+MATCH UP: UCT(10) vs LightRush
+第6次结束
+
+MATCH UP: UCT(10) vs LightRush
+第7次结束
+
+MATCH UP: UCT(10) vs LightRush
+第8次结束
+
+MATCH UP: UCT(10) vs LightRush
+第9次结束
+
+UCT(10)失败修复的次数： 0
+
+LightRush失败修复的次数： 0
+
+UCT(10)规划总时间： 11.0
+
+LightRush规划总时间： 2.0
+
+UCT(10)规划平均时间： 0.0
+
+LightRush规划平均总时间： 0.0
+
+UCT(10)保存规划时间： 0
+
+LightRush重规划总时间： 0
+
+UCT(10)保存规划时间： 0
+
+LightRush重规划总时间： 0
+
+MATCH UP: UCT(10) vs HeavyRush
+第0次结束
+
+MATCH UP: UCT(10) vs HeavyRush
+第1次结束
+
+MATCH UP: UCT(10) vs HeavyRush
+第2次结束
+
+MATCH UP: UCT(10) vs HeavyRush
+第3次结束
+
+MATCH UP: UCT(10) vs HeavyRush
+第4次结束
+
+MATCH UP: UCT(10) vs HeavyRush
+第5次结束
+
+MATCH UP: UCT(10) vs HeavyRush
+第6次结束
+
+MATCH UP: UCT(10) vs HeavyRush
+第7次结束
+
+MATCH UP: UCT(10) vs HeavyRush
+第8次结束
+
+MATCH UP: UCT(10) vs HeavyRush
+第9次结束
+
+UCT(10)失败修复的次数： 0
+
+HeavyRush失败修复的次数： 0
+
+UCT(10)规划总时间： 11.0
+
+HeavyRush规划总时间： 0.0
+
+UCT(10)规划平均时间： 0.0
+
+HeavyRush规划平均总时间： 0.0
+
+UCT(10)保存规划时间： 0
+
+HeavyRush重规划总时间： 0
+
+UCT(10)保存规划时间： 0
+
+HeavyRush重规划总时间： 0
+
+MATCH UP: UCT(10) vs UCT(10)
+第0次结束
+
+MATCH UP: UCT(10) vs UCT(10)
+第1次结束
+
+MATCH UP: UCT(10) vs UCT(10)
+第2次结束
+
+MATCH UP: UCT(10) vs UCT(10)
+第3次结束
+
+MATCH UP: UCT(10) vs UCT(10)
+第4次结束
+
+MATCH UP: UCT(10) vs UCT(10)
+第5次结束
+
+MATCH UP: UCT(10) vs UCT(10)
+第6次结束
+
+MATCH UP: UCT(10) vs UCT(10)
+第7次结束
+
+MATCH UP: UCT(10) vs UCT(10)
+第8次结束
+
+MATCH UP: UCT(10) vs UCT(10)
+第9次结束
+
+UCT(10)失败修复的次数： 0
+
+UCT(10)失败修复的次数： 0
+
+UCT(10)规划总时间： 25.0
+
+UCT(10)规划总时间： 16.0
+
+UCT(10)规划平均时间： 0.0
+
+UCT(10)规划平均总时间： 0.0
+
+UCT(10)保存规划时间： 0
+
+UCT(10)重规划总时间： 0
+
+UCT(10)保存规划时间： 0
+
+UCT(10)重规划总时间： 0
+
+MATCH UP: UCT(10) vs EnhanceAHTNAI:0
+repair by plan
+
+第0次结束
+
+MATCH UP: UCT(10) vs EnhanceAHTNAI:0
+第1次结束
+
+MATCH UP: UCT(10) vs EnhanceAHTNAI:0
+第2次结束
+
+MATCH UP: UCT(10) vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第3次结束
+
+MATCH UP: UCT(10) vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第4次结束
+
+MATCH UP: UCT(10) vs EnhanceAHTNAI:0
+第5次结束
+
+MATCH UP: UCT(10) vs EnhanceAHTNAI:0
+第6次结束
+
+MATCH UP: UCT(10) vs EnhanceAHTNAI:0
+第7次结束
+
+MATCH UP: UCT(10) vs EnhanceAHTNAI:0
+repair by plan
+
+第8次结束
+
+MATCH UP: UCT(10) vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+第9次结束
+
+UCT(10)失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 13
+
+UCT(10)规划总时间： 29.0
+
+EnhanceAHTNAI:0规划总时间： 2405.0
+
+UCT(10)规划平均时间： 0.0
+
+EnhanceAHTNAI:0规划平均总时间： 2.0
+
+UCT(10)保存规划时间： 0
+
+EnhanceAHTNAI:0重规划总时间： 20
+
+UCT(10)保存规划时间： 0
+
+EnhanceAHTNAI:0重规划总时间： 0
+
+MATCH UP: UCT(10) vs EnhanceAHTNAI:0
+第0次结束
+
+MATCH UP: UCT(10) vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+第1次结束
+
+MATCH UP: UCT(10) vs EnhanceAHTNAI:0
+第2次结束
+
+MATCH UP: UCT(10) vs EnhanceAHTNAI:0
+第3次结束
+
+MATCH UP: UCT(10) vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第4次结束
+
+MATCH UP: UCT(10) vs EnhanceAHTNAI:0
+repair by plan
+
+第5次结束
+
+MATCH UP: UCT(10) vs EnhanceAHTNAI:0
+第6次结束
+
+MATCH UP: UCT(10) vs EnhanceAHTNAI:0
+第7次结束
+
+MATCH UP: UCT(10) vs EnhanceAHTNAI:0
+第8次结束
+
+MATCH UP: UCT(10) vs EnhanceAHTNAI:0
+第9次结束
+
+UCT(10)失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 6
+
+UCT(10)规划总时间： 12.0
+
+EnhanceAHTNAI:0规划总时间： 3054.0
+
+UCT(10)规划平均时间： 0.0
+
+EnhanceAHTNAI:0规划平均总时间： 9.0
+
+UCT(10)保存规划时间： 0
+
+EnhanceAHTNAI:0重规划总时间： 43
+
+UCT(10)保存规划时间： 0
+
+EnhanceAHTNAI:0重规划总时间： 0
+
+MATCH UP: UCT(10) vs AHTNAI:
+第0次结束
+
+MATCH UP: UCT(10) vs AHTNAI:
+第1次结束
+
+MATCH UP: UCT(10) vs AHTNAI:
+第2次结束
+
+MATCH UP: UCT(10) vs AHTNAI:
+第3次结束
+
+MATCH UP: UCT(10) vs AHTNAI:
+第4次结束
+
+MATCH UP: UCT(10) vs AHTNAI:
+第5次结束
+
+MATCH UP: UCT(10) vs AHTNAI:
+第6次结束
+
+MATCH UP: UCT(10) vs AHTNAI:
+第7次结束
+
+MATCH UP: UCT(10) vs AHTNAI:
+第8次结束
+
+MATCH UP: UCT(10) vs AHTNAI:
+第9次结束
+
+UCT(10)失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+UCT(10)规划总时间： 11.0
+
+AHTNAI:规划总时间： 918.0
+
+UCT(10)规划平均时间： 0.0
+
+AHTNAI:规划平均总时间： 0.0
+
+UCT(10)保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+UCT(10)保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+MATCH UP: UCT(10) vs AHTNAI:
+第0次结束
+
+MATCH UP: UCT(10) vs AHTNAI:
+第1次结束
+
+MATCH UP: UCT(10) vs AHTNAI:
+第2次结束
+
+MATCH UP: UCT(10) vs AHTNAI:
+第3次结束
+
+MATCH UP: UCT(10) vs AHTNAI:
+第4次结束
+
+MATCH UP: UCT(10) vs AHTNAI:
+第5次结束
+
+MATCH UP: UCT(10) vs AHTNAI:
+第6次结束
+
+MATCH UP: UCT(10) vs AHTNAI:
+第7次结束
+
+MATCH UP: UCT(10) vs AHTNAI:
+第8次结束
+
+MATCH UP: UCT(10) vs AHTNAI:
+第9次结束
+
+UCT(10)失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+UCT(10)规划总时间： 11.0
+
+AHTNAI:规划总时间： 4211.0
+
+UCT(10)规划平均时间： 0.0
+
+AHTNAI:规划平均总时间： 6.0
+
+UCT(10)保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+UCT(10)保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+MATCH UP: EnhanceAHTNAI:0 vs RandomBiasedAI
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第0次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs RandomBiasedAI
+第1次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs RandomBiasedAI
+repair by plan
+
+第2次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs RandomBiasedAI
+repair by plan
+
+第3次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs RandomBiasedAI
+repair by plan
+
+repair by plan
+
+第4次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs RandomBiasedAI
+repair by plan
+
+第5次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs RandomBiasedAI
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第6次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs RandomBiasedAI
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第7次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs RandomBiasedAI
+第8次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs RandomBiasedAI
+第9次结束
+
+EnhanceAHTNAI:0失败修复的次数： 16
+
+RandomBiasedAI失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 5891.0
+
+RandomBiasedAI规划总时间： 11.0
+
+EnhanceAHTNAI:0规划平均时间： 5.0
+
+RandomBiasedAI规划平均总时间： 0.0
+
+EnhanceAHTNAI:0保存规划时间： 33
+
+RandomBiasedAI重规划总时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 0
+
+RandomBiasedAI重规划总时间： 0
+
+MATCH UP: EnhanceAHTNAI:0 vs LightRush
+第0次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs LightRush
+第1次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs LightRush
+第2次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs LightRush
+第3次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs LightRush
+第4次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs LightRush
+第5次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs LightRush
+第6次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs LightRush
+第7次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs LightRush
+第8次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs LightRush
+第9次结束
+
+EnhanceAHTNAI:0失败修复的次数： 0
+
+LightRush失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 747.0
+
+LightRush规划总时间： 5.0
+
+EnhanceAHTNAI:0规划平均时间： 0.0
+
+LightRush规划平均总时间： 0.0
+
+EnhanceAHTNAI:0保存规划时间： 23
+
+LightRush重规划总时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 0
+
+LightRush重规划总时间： 0
+
+MATCH UP: EnhanceAHTNAI:0 vs HeavyRush
+第0次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs HeavyRush
+第1次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs HeavyRush
+第2次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs HeavyRush
+第3次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs HeavyRush
+第4次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs HeavyRush
+第5次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs HeavyRush
+第6次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs HeavyRush
+第7次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs HeavyRush
+第8次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs HeavyRush
+第9次结束
+
+EnhanceAHTNAI:0失败修复的次数： 0
+
+HeavyRush失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 990.0
+
+HeavyRush规划总时间： 3.0
+
+EnhanceAHTNAI:0规划平均时间： 0.0
+
+HeavyRush规划平均总时间： 0.0
+
+EnhanceAHTNAI:0保存规划时间： 30
+
+HeavyRush重规划总时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 0
+
+HeavyRush重规划总时间： 0
+
+MATCH UP: EnhanceAHTNAI:0 vs UCT(10)
+第0次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs UCT(10)
+第1次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs UCT(10)
+第2次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs UCT(10)
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第3次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs UCT(10)
+第4次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs UCT(10)
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第5次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs UCT(10)
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第6次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs UCT(10)
+第7次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs UCT(10)
+repair by plan
+
+repair by plan
+
+第8次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs UCT(10)
+第9次结束
+
+EnhanceAHTNAI:0失败修复的次数： 13
+
+UCT(10)失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 2743.0
+
+UCT(10)规划总时间： 56.0
+
+EnhanceAHTNAI:0规划平均时间： 1.0
+
+UCT(10)规划平均总时间： 0.0
+
+EnhanceAHTNAI:0保存规划时间： 43
+
+UCT(10)重规划总时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 0
+
+UCT(10)重规划总时间： 0
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第0次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第1次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+第2次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第3次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第4次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第5次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第6次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第7次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第8次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第9次结束
+
+EnhanceAHTNAI:0失败修复的次数： 10
+
+EnhanceAHTNAI:0失败修复的次数： 29
+
+EnhanceAHTNAI:0规划总时间： 1723.0
+
+EnhanceAHTNAI:0规划总时间： 1209.0
+
+EnhanceAHTNAI:0规划平均时间： 1.0
+
+EnhanceAHTNAI:0规划平均总时间： 0.0
+
+EnhanceAHTNAI:0保存规划时间： 31
+
+EnhanceAHTNAI:0重规划总时间： 39
+
+EnhanceAHTNAI:0保存规划时间： 2
+
+EnhanceAHTNAI:0重规划总时间： 4
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+第0次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第1次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第2次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第3次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+第4次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第5次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第6次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第7次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第8次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第9次结束
+
+EnhanceAHTNAI:0失败修复的次数： 29
+
+EnhanceAHTNAI:0失败修复的次数： 14
+
+EnhanceAHTNAI:0规划总时间： 1500.0
+
+EnhanceAHTNAI:0规划总时间： 3722.0
+
+EnhanceAHTNAI:0规划平均时间： 0.0
+
+EnhanceAHTNAI:0规划平均总时间： 8.0
+
+EnhanceAHTNAI:0保存规划时间： 22
+
+EnhanceAHTNAI:0重规划总时间： 81
+
+EnhanceAHTNAI:0保存规划时间： 1
+
+EnhanceAHTNAI:0重规划总时间： 0
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+repair by plan
+
+第0次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+repair by plan
+
+第1次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第2次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+repair by plan
+
+第3次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+第4次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+repair by plan
+
+第5次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+repair by plan
+
+第6次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+repair by plan
+
+第7次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+第8次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第9次结束
+
+EnhanceAHTNAI:0失败修复的次数： 20
+
+AHTNAI:失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 1426.0
+
+AHTNAI:规划总时间： 757.0
+
+EnhanceAHTNAI:0规划平均时间： 0.0
+
+AHTNAI:规划平均总时间： 0.0
+
+EnhanceAHTNAI:0保存规划时间： 32
+
+AHTNAI:重规划总时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+repair by plan
+
+第0次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第1次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第2次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第3次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第4次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+repair by plan
+
+第5次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+repair by plan
+
+第6次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第7次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第8次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第9次结束
+
+EnhanceAHTNAI:0失败修复的次数： 32
+
+AHTNAI:失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 1026.0
+
+AHTNAI:规划总时间： 1694.0
+
+EnhanceAHTNAI:0规划平均时间： 0.0
+
+AHTNAI:规划平均总时间： 0.0
+
+EnhanceAHTNAI:0保存规划时间： 30
+
+AHTNAI:重规划总时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+MATCH UP: EnhanceAHTNAI:0 vs RandomBiasedAI
+第0次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs RandomBiasedAI
+第1次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs RandomBiasedAI
+第2次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs RandomBiasedAI
+第3次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs RandomBiasedAI
+第4次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs RandomBiasedAI
+第5次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs RandomBiasedAI
+第6次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs RandomBiasedAI
+第7次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs RandomBiasedAI
+第8次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs RandomBiasedAI
+第9次结束
+
+EnhanceAHTNAI:0失败修复的次数： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 3010.0
+
+RandomBiasedAI规划总时间： 1.0
+
+EnhanceAHTNAI:0规划平均时间： 8.0
+
+RandomBiasedAI规划平均总时间： 0.0
+
+EnhanceAHTNAI:0保存规划时间： 56
+
+RandomBiasedAI重规划总时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 0
+
+RandomBiasedAI重规划总时间： 0
+
+MATCH UP: EnhanceAHTNAI:0 vs LightRush
+第0次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs LightRush
+第1次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs LightRush
+第2次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs LightRush
+第3次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs LightRush
+第4次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs LightRush
+第5次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs LightRush
+第6次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs LightRush
+第7次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs LightRush
+第8次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs LightRush
+第9次结束
+
+EnhanceAHTNAI:0失败修复的次数： 0
+
+LightRush失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 3336.0
+
+LightRush规划总时间： 4.0
+
+EnhanceAHTNAI:0规划平均时间： 11.0
+
+LightRush规划平均总时间： 0.0
+
+EnhanceAHTNAI:0保存规划时间： 47
+
+LightRush重规划总时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 0
+
+LightRush重规划总时间： 0
+
+MATCH UP: EnhanceAHTNAI:0 vs HeavyRush
+第0次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs HeavyRush
+第1次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs HeavyRush
+第2次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs HeavyRush
+第3次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs HeavyRush
+第4次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs HeavyRush
+第5次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs HeavyRush
+第6次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs HeavyRush
+第7次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs HeavyRush
+第8次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs HeavyRush
+第9次结束
+
+EnhanceAHTNAI:0失败修复的次数： 0
+
+HeavyRush失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 3084.0
+
+HeavyRush规划总时间： 4.0
+
+EnhanceAHTNAI:0规划平均时间： 10.0
+
+HeavyRush规划平均总时间： 0.0
+
+EnhanceAHTNAI:0保存规划时间： 40
+
+HeavyRush重规划总时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 0
+
+HeavyRush重规划总时间： 0
+
+MATCH UP: EnhanceAHTNAI:0 vs UCT(10)
+第0次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs UCT(10)
+第1次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs UCT(10)
+第2次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs UCT(10)
+repair by plan
+
+第3次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs UCT(10)
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第4次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs UCT(10)
+repair by plan
+
+第5次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs UCT(10)
+第6次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs UCT(10)
+repair by plan
+
+repair by plan
+
+第7次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs UCT(10)
+第8次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs UCT(10)
+第9次结束
+
+EnhanceAHTNAI:0失败修复的次数： 7
+
+UCT(10)失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 4387.0
+
+UCT(10)规划总时间： 37.0
+
+EnhanceAHTNAI:0规划平均时间： 11.0
+
+UCT(10)规划平均总时间： 0.0
+
+EnhanceAHTNAI:0保存规划时间： 53
+
+UCT(10)重规划总时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 0
+
+UCT(10)重规划总时间： 0
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+第0次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair failed
+
+repair by plan
+
+repair failed
+
+repair by plan
+
+第1次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第2次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第3次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第4次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第5次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair failed
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第6次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair failed
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第7次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第8次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第9次结束
+
+EnhanceAHTNAI:0失败修复的次数： 3
+
+EnhanceAHTNAI:0失败修复的次数： 42
+
+EnhanceAHTNAI:0规划总时间： 4326.0
+
+EnhanceAHTNAI:0规划总时间： 1301.0
+
+EnhanceAHTNAI:0规划平均时间： 10.0
+
+EnhanceAHTNAI:0规划平均总时间： 0.0
+
+EnhanceAHTNAI:0保存规划时间： 52
+
+EnhanceAHTNAI:0重规划总时间： 33
+
+EnhanceAHTNAI:0保存规划时间： 0
+
+EnhanceAHTNAI:0重规划总时间： 5
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第0次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第1次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair failed
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第2次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第3次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第4次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第5次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第6次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第7次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第8次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第9次结束
+
+EnhanceAHTNAI:0失败修复的次数： 12
+
+EnhanceAHTNAI:0失败修复的次数： 43
+
+EnhanceAHTNAI:0规划总时间： 15196.0
+
+EnhanceAHTNAI:0规划总时间： 9994.0
+
+EnhanceAHTNAI:0规划平均时间： 12.0
+
+EnhanceAHTNAI:0规划平均总时间： 8.0
+
+EnhanceAHTNAI:0保存规划时间： 112
+
+EnhanceAHTNAI:0重规划总时间： 105
+
+EnhanceAHTNAI:0保存规划时间： 0
+
+EnhanceAHTNAI:0重规划总时间： 7
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+第0次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+第1次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+第2次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+第3次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+第4次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+第5次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+第6次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+第7次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+第8次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+第9次结束
+
+EnhanceAHTNAI:0失败修复的次数： 9
+
+AHTNAI:失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 3931.0
+
+AHTNAI:规划总时间： 963.0
+
+EnhanceAHTNAI:0规划平均时间： 9.0
+
+AHTNAI:规划平均总时间： 0.0
+
+EnhanceAHTNAI:0保存规划时间： 37
+
+AHTNAI:重规划总时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+第0次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+第1次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+第2次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+第3次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+第4次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+第5次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+第6次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+第7次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+第8次结束
+
+MATCH UP: EnhanceAHTNAI:0 vs AHTNAI:
+repair by plan
+
+第9次结束
+
+EnhanceAHTNAI:0失败修复的次数： 4
+
+AHTNAI:失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 22888.0
+
+AHTNAI:规划总时间： 11251.0
+
+EnhanceAHTNAI:0规划平均时间： 12.0
+
+AHTNAI:规划平均总时间： 3.0
+
+EnhanceAHTNAI:0保存规划时间： 214
+
+AHTNAI:重规划总时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+MATCH UP: AHTNAI: vs RandomBiasedAI
+第0次结束
+
+MATCH UP: AHTNAI: vs RandomBiasedAI
+第1次结束
+
+MATCH UP: AHTNAI: vs RandomBiasedAI
+第2次结束
+
+MATCH UP: AHTNAI: vs RandomBiasedAI
+第3次结束
+
+MATCH UP: AHTNAI: vs RandomBiasedAI
+第4次结束
+
+MATCH UP: AHTNAI: vs RandomBiasedAI
+第5次结束
+
+MATCH UP: AHTNAI: vs RandomBiasedAI
+第6次结束
+
+MATCH UP: AHTNAI: vs RandomBiasedAI
+第7次结束
+
+MATCH UP: AHTNAI: vs RandomBiasedAI
+第8次结束
+
+MATCH UP: AHTNAI: vs RandomBiasedAI
+第9次结束
+
+AHTNAI:失败修复的次数： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+AHTNAI:规划总时间： 1918.0
+
+RandomBiasedAI规划总时间： 6.0
+
+AHTNAI:规划平均时间： 1.0
+
+RandomBiasedAI规划平均总时间： 0.0
+
+AHTNAI:保存规划时间： 0
+
+RandomBiasedAI重规划总时间： 0
+
+AHTNAI:保存规划时间： 0
+
+RandomBiasedAI重规划总时间： 0
+
+MATCH UP: AHTNAI: vs LightRush
+第0次结束
+
+MATCH UP: AHTNAI: vs LightRush
+第1次结束
+
+MATCH UP: AHTNAI: vs LightRush
+第2次结束
+
+MATCH UP: AHTNAI: vs LightRush
+第3次结束
+
+MATCH UP: AHTNAI: vs LightRush
+第4次结束
+
+MATCH UP: AHTNAI: vs LightRush
+第5次结束
+
+MATCH UP: AHTNAI: vs LightRush
+第6次结束
+
+MATCH UP: AHTNAI: vs LightRush
+第7次结束
+
+MATCH UP: AHTNAI: vs LightRush
+第8次结束
+
+MATCH UP: AHTNAI: vs LightRush
+第9次结束
+
+AHTNAI:失败修复的次数： 0
+
+LightRush失败修复的次数： 0
+
+AHTNAI:规划总时间： 602.0
+
+LightRush规划总时间： 3.0
+
+AHTNAI:规划平均时间： 0.0
+
+LightRush规划平均总时间： 0.0
+
+AHTNAI:保存规划时间： 0
+
+LightRush重规划总时间： 0
+
+AHTNAI:保存规划时间： 0
+
+LightRush重规划总时间： 0
+
+MATCH UP: AHTNAI: vs HeavyRush
+第0次结束
+
+MATCH UP: AHTNAI: vs HeavyRush
+第1次结束
+
+MATCH UP: AHTNAI: vs HeavyRush
+第2次结束
+
+MATCH UP: AHTNAI: vs HeavyRush
+第3次结束
+
+MATCH UP: AHTNAI: vs HeavyRush
+第4次结束
+
+MATCH UP: AHTNAI: vs HeavyRush
+第5次结束
+
+MATCH UP: AHTNAI: vs HeavyRush
+第6次结束
+
+MATCH UP: AHTNAI: vs HeavyRush
+第7次结束
+
+MATCH UP: AHTNAI: vs HeavyRush
+第8次结束
+
+MATCH UP: AHTNAI: vs HeavyRush
+第9次结束
+
+AHTNAI:失败修复的次数： 0
+
+HeavyRush失败修复的次数： 0
+
+AHTNAI:规划总时间： 560.0
+
+HeavyRush规划总时间： 4.0
+
+AHTNAI:规划平均时间： 0.0
+
+HeavyRush规划平均总时间： 0.0
+
+AHTNAI:保存规划时间： 0
+
+HeavyRush重规划总时间： 0
+
+AHTNAI:保存规划时间： 0
+
+HeavyRush重规划总时间： 0
+
+MATCH UP: AHTNAI: vs UCT(10)
+第0次结束
+
+MATCH UP: AHTNAI: vs UCT(10)
+第1次结束
+
+MATCH UP: AHTNAI: vs UCT(10)
+第2次结束
+
+MATCH UP: AHTNAI: vs UCT(10)
+第3次结束
+
+MATCH UP: AHTNAI: vs UCT(10)
+第4次结束
+
+MATCH UP: AHTNAI: vs UCT(10)
+第5次结束
+
+MATCH UP: AHTNAI: vs UCT(10)
+第6次结束
+
+MATCH UP: AHTNAI: vs UCT(10)
+第7次结束
+
+MATCH UP: AHTNAI: vs UCT(10)
+第8次结束
+
+MATCH UP: AHTNAI: vs UCT(10)
+第9次结束
+
+AHTNAI:失败修复的次数： 0
+
+UCT(10)失败修复的次数： 0
+
+AHTNAI:规划总时间： 4915.0
+
+UCT(10)规划总时间： 44.0
+
+AHTNAI:规划平均时间： 2.0
+
+UCT(10)规划平均总时间： 0.0
+
+AHTNAI:保存规划时间： 0
+
+UCT(10)重规划总时间： 0
+
+AHTNAI:保存规划时间： 0
+
+UCT(10)重规划总时间： 0
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第0次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第1次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第2次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第3次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第4次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第5次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+第6次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第7次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+第8次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第9次结束
+
+AHTNAI:失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 32
+
+AHTNAI:规划总时间： 872.0
+
+EnhanceAHTNAI:0规划总时间： 1130.0
+
+AHTNAI:规划平均时间： 0.0
+
+EnhanceAHTNAI:0规划平均总时间： 0.0
+
+AHTNAI:保存规划时间： 0
+
+EnhanceAHTNAI:0重规划总时间： 21
+
+AHTNAI:保存规划时间： 0
+
+EnhanceAHTNAI:0重规划总时间： 3
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第0次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第1次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第2次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第3次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第4次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第5次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第6次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第7次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第8次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第9次结束
+
+AHTNAI:失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 33
+
+AHTNAI:规划总时间： 881.0
+
+EnhanceAHTNAI:0规划总时间： 3955.0
+
+AHTNAI:规划平均时间： 0.0
+
+EnhanceAHTNAI:0规划平均总时间： 10.0
+
+AHTNAI:保存规划时间： 0
+
+EnhanceAHTNAI:0重规划总时间： 54
+
+AHTNAI:保存规划时间： 0
+
+EnhanceAHTNAI:0重规划总时间： 0
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第0次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第1次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第2次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第3次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第4次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第5次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第6次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第7次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第8次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第9次结束
+
+AHTNAI:失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+AHTNAI:规划总时间： 9112.0
+
+AHTNAI:规划总时间： 9149.0
+
+AHTNAI:规划平均时间： 0.0
+
+AHTNAI:规划平均总时间： 0.0
+
+AHTNAI:保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+AHTNAI:保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第0次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第1次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第2次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第3次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第4次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第5次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第6次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第7次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第8次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第9次结束
+
+AHTNAI:失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+AHTNAI:规划总时间： 1073.0
+
+AHTNAI:规划总时间： 2899.0
+
+AHTNAI:规划平均时间： 1.0
+
+AHTNAI:规划平均总时间： 9.0
+
+AHTNAI:保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+AHTNAI:保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+MATCH UP: AHTNAI: vs RandomBiasedAI
+第0次结束
+
+MATCH UP: AHTNAI: vs RandomBiasedAI
+第1次结束
+
+MATCH UP: AHTNAI: vs RandomBiasedAI
+第2次结束
+
+MATCH UP: AHTNAI: vs RandomBiasedAI
+第3次结束
+
+MATCH UP: AHTNAI: vs RandomBiasedAI
+第4次结束
+
+MATCH UP: AHTNAI: vs RandomBiasedAI
+第5次结束
+
+MATCH UP: AHTNAI: vs RandomBiasedAI
+第6次结束
+
+MATCH UP: AHTNAI: vs RandomBiasedAI
+第7次结束
+
+MATCH UP: AHTNAI: vs RandomBiasedAI
+第8次结束
+
+MATCH UP: AHTNAI: vs RandomBiasedAI
+第9次结束
+
+AHTNAI:失败修复的次数： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+AHTNAI:规划总时间： 4090.0
+
+RandomBiasedAI规划总时间： 2.0
+
+AHTNAI:规划平均时间： 9.0
+
+RandomBiasedAI规划平均总时间： 0.0
+
+AHTNAI:保存规划时间： 0
+
+RandomBiasedAI重规划总时间： 0
+
+AHTNAI:保存规划时间： 0
+
+RandomBiasedAI重规划总时间： 0
+
+MATCH UP: AHTNAI: vs LightRush
+第0次结束
+
+MATCH UP: AHTNAI: vs LightRush
+第1次结束
+
+MATCH UP: AHTNAI: vs LightRush
+第2次结束
+
+MATCH UP: AHTNAI: vs LightRush
+第3次结束
+
+MATCH UP: AHTNAI: vs LightRush
+第4次结束
+
+MATCH UP: AHTNAI: vs LightRush
+第5次结束
+
+MATCH UP: AHTNAI: vs LightRush
+第6次结束
+
+MATCH UP: AHTNAI: vs LightRush
+第7次结束
+
+MATCH UP: AHTNAI: vs LightRush
+第8次结束
+
+MATCH UP: AHTNAI: vs LightRush
+第9次结束
+
+AHTNAI:失败修复的次数： 0
+
+LightRush失败修复的次数： 0
+
+AHTNAI:规划总时间： 2336.0
+
+LightRush规划总时间： 10.0
+
+AHTNAI:规划平均时间： 7.0
+
+LightRush规划平均总时间： 0.0
+
+AHTNAI:保存规划时间： 0
+
+LightRush重规划总时间： 0
+
+AHTNAI:保存规划时间： 0
+
+LightRush重规划总时间： 0
+
+MATCH UP: AHTNAI: vs HeavyRush
+第0次结束
+
+MATCH UP: AHTNAI: vs HeavyRush
+第1次结束
+
+MATCH UP: AHTNAI: vs HeavyRush
+第2次结束
+
+MATCH UP: AHTNAI: vs HeavyRush
+第3次结束
+
+MATCH UP: AHTNAI: vs HeavyRush
+第4次结束
+
+MATCH UP: AHTNAI: vs HeavyRush
+第5次结束
+
+MATCH UP: AHTNAI: vs HeavyRush
+第6次结束
+
+MATCH UP: AHTNAI: vs HeavyRush
+第7次结束
+
+MATCH UP: AHTNAI: vs HeavyRush
+第8次结束
+
+MATCH UP: AHTNAI: vs HeavyRush
+第9次结束
+
+AHTNAI:失败修复的次数： 0
+
+HeavyRush失败修复的次数： 0
+
+AHTNAI:规划总时间： 2564.0
+
+HeavyRush规划总时间： 6.0
+
+AHTNAI:规划平均时间： 9.0
+
+HeavyRush规划平均总时间： 0.0
+
+AHTNAI:保存规划时间： 0
+
+HeavyRush重规划总时间： 0
+
+AHTNAI:保存规划时间： 0
+
+HeavyRush重规划总时间： 0
+
+MATCH UP: AHTNAI: vs UCT(10)
+第0次结束
+
+MATCH UP: AHTNAI: vs UCT(10)
+第1次结束
+
+MATCH UP: AHTNAI: vs UCT(10)
+第2次结束
+
+MATCH UP: AHTNAI: vs UCT(10)
+第3次结束
+
+MATCH UP: AHTNAI: vs UCT(10)
+第4次结束
+
+MATCH UP: AHTNAI: vs UCT(10)
+第5次结束
+
+MATCH UP: AHTNAI: vs UCT(10)
+第6次结束
+
+MATCH UP: AHTNAI: vs UCT(10)
+第7次结束
+
+MATCH UP: AHTNAI: vs UCT(10)
+第8次结束
+
+MATCH UP: AHTNAI: vs UCT(10)
+第9次结束
+
+AHTNAI:失败修复的次数： 0
+
+UCT(10)失败修复的次数： 0
+
+AHTNAI:规划总时间： 2323.0
+
+UCT(10)规划总时间： 34.0
+
+AHTNAI:规划平均时间： 1.0
+
+UCT(10)规划平均总时间： 0.0
+
+AHTNAI:保存规划时间： 0
+
+UCT(10)重规划总时间： 0
+
+AHTNAI:保存规划时间： 0
+
+UCT(10)重规划总时间： 0
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第0次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第1次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第2次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第3次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第4次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第5次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第6次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第7次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第8次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第9次结束
+
+AHTNAI:失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 42
+
+AHTNAI:规划总时间： 10497.0
+
+EnhanceAHTNAI:0规划总时间： 2197.0
+
+AHTNAI:规划平均时间： 6.0
+
+EnhanceAHTNAI:0规划平均总时间： 0.0
+
+AHTNAI:保存规划时间： 0
+
+EnhanceAHTNAI:0重规划总时间： 43
+
+AHTNAI:保存规划时间： 0
+
+EnhanceAHTNAI:0重规划总时间： 4
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第0次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第1次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+第2次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第3次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第4次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+第5次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+repair by plan
+
+第6次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+第7次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+第8次结束
+
+MATCH UP: AHTNAI: vs EnhanceAHTNAI:0
+repair by plan
+
+repair by plan
+
+第9次结束
+
+AHTNAI:失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 26
+
+AHTNAI:规划总时间： 4839.0
+
+EnhanceAHTNAI:0规划总时间： 5757.0
+
+AHTNAI:规划平均时间： 2.0
+
+EnhanceAHTNAI:0规划平均总时间： 9.0
+
+AHTNAI:保存规划时间： 0
+
+EnhanceAHTNAI:0重规划总时间： 120
+
+AHTNAI:保存规划时间： 0
+
+EnhanceAHTNAI:0重规划总时间： 1
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第0次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第1次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第2次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第3次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第4次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第5次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第6次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第7次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第8次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第9次结束
+
+AHTNAI:失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+AHTNAI:规划总时间： 3331.0
+
+AHTNAI:规划总时间： 921.0
+
+AHTNAI:规划平均时间： 10.0
+
+AHTNAI:规划平均总时间： 0.0
+
+AHTNAI:保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+AHTNAI:保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第0次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第1次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第2次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第3次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第4次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第5次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第6次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第7次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第8次结束
+
+MATCH UP: AHTNAI: vs AHTNAI:
+第9次结束
+
+AHTNAI:失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+AHTNAI:规划总时间： 3781.0
+
+AHTNAI:规划总时间： 4149.0
+
+AHTNAI:规划平均时间： 9.0
+
+AHTNAI:规划平均总时间： 10.0
+
+AHTNAI:保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+
+AHTNAI:保存规划时间： 0
+
+AHTNAI:重规划总时间： 0
+

@@ -1,0 +1,2466 @@
+RandomBiasedAI失败修复的次数： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+RandomBiasedAI规划总时间： 9.0
+
+RandomBiasedAI规划总时间： 4.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+RandomBiasedAI规划平均总时间： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+LightRush失败修复的次数： 0
+
+RandomBiasedAI规划总时间： 0.0
+
+LightRush规划总时间： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+LightRush规划平均总时间： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+LightRush保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+LightRush重规划时间： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+HeavyRush失败修复的次数： 0
+
+RandomBiasedAI规划总时间： 3.0
+
+HeavyRush规划总时间： 12.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+HeavyRush规划平均总时间： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+HeavyRush保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+HeavyRush重规划时间： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+UCT(50)失败修复的次数： 0
+
+RandomBiasedAI规划总时间： 12.0
+
+UCT(50)规划总时间： 2968.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+UCT(50)规划平均总时间： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+UCT(50)保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+UCT(50)重规划时间： 0
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair failed
+
+repair by plan
+
+RandomBiasedAI失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 28
+
+RandomBiasedAI规划总时间： 24.0
+
+EnhanceAHTNAI:0规划总时间： 39079.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+EnhanceAHTNAI:0规划平均总时间： 33.0
+
+RandomBiasedAI保存规划时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 87
+
+RandomBiasedAI重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+RandomBiasedAI失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 8
+
+RandomBiasedAI规划总时间： 3.0
+
+EnhanceAHTNAI:0规划总时间： 7718.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+EnhanceAHTNAI:0规划平均总时间： 14.0
+
+RandomBiasedAI保存规划时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 112
+
+RandomBiasedAI重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+RandomBiasedAI规划总时间： 6.0
+
+AHTNAI:规划总时间： 71451.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+AHTNAI:规划平均总时间： 39.0
+
+RandomBiasedAI保存规划时间： 0
+
+AHTNAI:保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+RandomBiasedAI规划总时间： 0.0
+
+AHTNAI:规划总时间： 6588.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+AHTNAI:规划平均总时间： 10.0
+
+RandomBiasedAI保存规划时间： 0
+
+AHTNAI:保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+LightRush失败修复的次数： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+LightRush规划总时间： 0.0
+
+RandomBiasedAI规划总时间： 0.0
+
+LightRush规划平均时间： 0.0
+
+RandomBiasedAI规划平均总时间： 0.0
+
+LightRush保存规划时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+LightRush重规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+LightRush失败修复的次数： 0
+
+LightRush失败修复的次数： 0
+
+LightRush规划总时间： 9.0
+
+LightRush规划总时间： 4.0
+
+LightRush规划平均时间： 0.0
+
+LightRush规划平均总时间： 0.0
+
+LightRush保存规划时间： 0
+
+LightRush保存规划时间： 0
+
+LightRush重规划时间： 0
+
+LightRush重规划时间： 0
+
+LightRush失败修复的次数： 0
+
+HeavyRush失败修复的次数： 0
+
+LightRush规划总时间： 2.0
+
+HeavyRush规划总时间： 3.0
+
+LightRush规划平均时间： 0.0
+
+HeavyRush规划平均总时间： 0.0
+
+LightRush保存规划时间： 0
+
+HeavyRush保存规划时间： 0
+
+LightRush重规划时间： 0
+
+HeavyRush重规划时间： 0
+
+LightRush失败修复的次数： 0
+
+UCT(50)失败修复的次数： 0
+
+LightRush规划总时间： 4.0
+
+UCT(50)规划总时间： 69.0
+
+LightRush规划平均时间： 0.0
+
+UCT(50)规划平均总时间： 0.0
+
+LightRush保存规划时间： 0
+
+UCT(50)保存规划时间： 0
+
+LightRush重规划时间： 0
+
+UCT(50)重规划时间： 0
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+LightRush失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 3
+
+LightRush规划总时间： 4.0
+
+EnhanceAHTNAI:0规划总时间： 277009.0
+
+LightRush规划平均时间： 0.0
+
+EnhanceAHTNAI:0规划平均总时间： 102.0
+
+LightRush保存规划时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 40
+
+LightRush重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+LightRush失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 0
+
+LightRush规划总时间： 4.0
+
+EnhanceAHTNAI:0规划总时间： 6669.0
+
+LightRush规划平均时间： 0.0
+
+EnhanceAHTNAI:0规划平均总时间： 18.0
+
+LightRush保存规划时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 80
+
+LightRush重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+LightRush失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+LightRush规划总时间： 0.0
+
+AHTNAI:规划总时间： 2963.0
+
+LightRush规划平均时间： 0.0
+
+AHTNAI:规划平均总时间： 6.0
+
+LightRush保存规划时间： 0
+
+AHTNAI:保存规划时间： 0
+
+LightRush重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+LightRush失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+LightRush规划总时间： 7.0
+
+AHTNAI:规划总时间： 4579.0
+
+LightRush规划平均时间： 0.0
+
+AHTNAI:规划平均总时间： 10.0
+
+LightRush保存规划时间： 0
+
+AHTNAI:保存规划时间： 0
+
+LightRush重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+HeavyRush失败修复的次数： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+HeavyRush规划总时间： 1.0
+
+RandomBiasedAI规划总时间： 1.0
+
+HeavyRush规划平均时间： 0.0
+
+RandomBiasedAI规划平均总时间： 0.0
+
+HeavyRush保存规划时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+HeavyRush重规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+HeavyRush失败修复的次数： 0
+
+LightRush失败修复的次数： 0
+
+HeavyRush规划总时间： 3.0
+
+LightRush规划总时间： 2.0
+
+HeavyRush规划平均时间： 0.0
+
+LightRush规划平均总时间： 0.0
+
+HeavyRush保存规划时间： 0
+
+LightRush保存规划时间： 0
+
+HeavyRush重规划时间： 0
+
+LightRush重规划时间： 0
+
+HeavyRush失败修复的次数： 0
+
+HeavyRush失败修复的次数： 0
+
+HeavyRush规划总时间： 14.0
+
+HeavyRush规划总时间： 7.0
+
+HeavyRush规划平均时间： 0.0
+
+HeavyRush规划平均总时间： 0.0
+
+HeavyRush保存规划时间： 0
+
+HeavyRush保存规划时间： 0
+
+HeavyRush重规划时间： 0
+
+HeavyRush重规划时间： 0
+
+HeavyRush失败修复的次数： 0
+
+UCT(50)失败修复的次数： 0
+
+HeavyRush规划总时间： 13.0
+
+UCT(50)规划总时间： 115.0
+
+HeavyRush规划平均时间： 0.0
+
+UCT(50)规划平均总时间： 0.0
+
+HeavyRush保存规划时间： 0
+
+UCT(50)保存规划时间： 0
+
+HeavyRush重规划时间： 0
+
+UCT(50)重规划时间： 0
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+HeavyRush失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 4
+
+HeavyRush规划总时间： 3.0
+
+EnhanceAHTNAI:0规划总时间： 4804.0
+
+HeavyRush规划平均时间： 0.0
+
+EnhanceAHTNAI:0规划平均总时间： 9.0
+
+HeavyRush保存规划时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 38
+
+HeavyRush重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+repair by plan
+
+HeavyRush失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 1
+
+HeavyRush规划总时间： 10.0
+
+EnhanceAHTNAI:0规划总时间： 5346.0
+
+HeavyRush规划平均时间： 0.0
+
+EnhanceAHTNAI:0规划平均总时间： 15.0
+
+HeavyRush保存规划时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 65
+
+HeavyRush重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+HeavyRush失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+HeavyRush规划总时间： 3.0
+
+AHTNAI:规划总时间： 2055.0
+
+HeavyRush规划平均时间： 0.0
+
+AHTNAI:规划平均总时间： 4.0
+
+HeavyRush保存规划时间： 0
+
+AHTNAI:保存规划时间： 0
+
+HeavyRush重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+HeavyRush失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+HeavyRush规划总时间： 5.0
+
+AHTNAI:规划总时间： 3940.0
+
+HeavyRush规划平均时间： 0.0
+
+AHTNAI:规划平均总时间： 10.0
+
+HeavyRush保存规划时间： 0
+
+AHTNAI:保存规划时间： 0
+
+HeavyRush重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+UCT(50)失败修复的次数： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+UCT(50)规划总时间： 2025.0
+
+RandomBiasedAI规划总时间： 38.0
+
+UCT(50)规划平均时间： 0.0
+
+RandomBiasedAI规划平均总时间： 0.0
+
+UCT(50)保存规划时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+UCT(50)重规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+UCT(50)失败修复的次数： 0
+
+LightRush失败修复的次数： 0
+
+UCT(50)规划总时间： 85.0
+
+LightRush规划总时间： 10.0
+
+UCT(50)规划平均时间： 0.0
+
+LightRush规划平均总时间： 0.0
+
+UCT(50)保存规划时间： 0
+
+LightRush保存规划时间： 0
+
+UCT(50)重规划时间： 0
+
+LightRush重规划时间： 0
+
+UCT(50)失败修复的次数： 0
+
+HeavyRush失败修复的次数： 0
+
+UCT(50)规划总时间： 124.0
+
+HeavyRush规划总时间： 12.0
+
+UCT(50)规划平均时间： 0.0
+
+HeavyRush规划平均总时间： 0.0
+
+UCT(50)保存规划时间： 0
+
+HeavyRush保存规划时间： 0
+
+UCT(50)重规划时间： 0
+
+HeavyRush重规划时间： 0
+
+UCT(50)失败修复的次数： 0
+
+UCT(50)失败修复的次数： 0
+
+UCT(50)规划总时间： 3045.0
+
+UCT(50)规划总时间： 8448.0
+
+UCT(50)规划平均时间： 0.0
+
+UCT(50)规划平均总时间： 0.0
+
+UCT(50)保存规划时间： 0
+
+UCT(50)保存规划时间： 0
+
+UCT(50)重规划时间： 0
+
+UCT(50)重规划时间： 0
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair failed
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+UCT(50)失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 24
+
+UCT(50)规划总时间： 2973.0
+
+EnhanceAHTNAI:0规划总时间： 141638.0
+
+UCT(50)规划平均时间： 0.0
+
+EnhanceAHTNAI:0规划平均总时间： 71.0
+
+UCT(50)保存规划时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 63
+
+UCT(50)重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 1
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+UCT(50)失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 16
+
+UCT(50)规划总时间： 88.0
+
+EnhanceAHTNAI:0规划总时间： 6653.0
+
+UCT(50)规划平均时间： 0.0
+
+EnhanceAHTNAI:0规划平均总时间： 11.0
+
+UCT(50)保存规划时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 95
+
+UCT(50)重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+UCT(50)失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+UCT(50)规划总时间： 1134.0
+
+AHTNAI:规划总时间： 127625.0
+
+UCT(50)规划平均时间： 0.0
+
+AHTNAI:规划平均总时间： 112.0
+
+UCT(50)保存规划时间： 0
+
+AHTNAI:保存规划时间： 0
+
+UCT(50)重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+UCT(50)失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+UCT(50)规划总时间： 271.0
+
+AHTNAI:规划总时间： 8227.0
+
+UCT(50)规划平均时间： 0.0
+
+AHTNAI:规划平均总时间： 10.0
+
+UCT(50)保存规划时间： 0
+
+AHTNAI:保存规划时间： 0
+
+UCT(50)重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+EnhanceAHTNAI:0失败修复的次数： 21
+
+RandomBiasedAI失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 75342.0
+
+RandomBiasedAI规划总时间： 22.0
+
+EnhanceAHTNAI:0规划平均时间： 46.0
+
+RandomBiasedAI规划平均总时间： 0.0
+
+EnhanceAHTNAI:0保存规划时间： 6660
+
+RandomBiasedAI保存规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+repair failed
+
+EnhanceAHTNAI:0失败修复的次数： 1
+
+LightRush失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 5531.0
+
+LightRush规划总时间： 9.0
+
+EnhanceAHTNAI:0规划平均时间： 11.0
+
+LightRush规划平均总时间： 0.0
+
+EnhanceAHTNAI:0保存规划时间： 44
+
+LightRush保存规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+LightRush重规划时间： 0
+
+EnhanceAHTNAI:0失败修复的次数： 0
+
+HeavyRush失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 3560.0
+
+HeavyRush规划总时间： 6.0
+
+EnhanceAHTNAI:0规划平均时间： 6.0
+
+HeavyRush规划平均总时间： 0.0
+
+EnhanceAHTNAI:0保存规划时间： 41
+
+HeavyRush保存规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+HeavyRush重规划时间： 0
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair failed
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+EnhanceAHTNAI:0失败修复的次数： 21
+
+UCT(50)失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 108299.0
+
+UCT(50)规划总时间： 1068.0
+
+EnhanceAHTNAI:0规划平均时间： 80.0
+
+UCT(50)规划平均总时间： 0.0
+
+EnhanceAHTNAI:0保存规划时间： 67
+
+UCT(50)保存规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+UCT(50)重规划时间： 0
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+EnhanceAHTNAI:0失败修复的次数： 25
+
+EnhanceAHTNAI:0失败修复的次数： 37
+
+EnhanceAHTNAI:0规划总时间： 6691.0
+
+EnhanceAHTNAI:0规划总时间： 4472.0
+
+EnhanceAHTNAI:0规划平均时间： 9.0
+
+EnhanceAHTNAI:0规划平均总时间： 4.0
+
+EnhanceAHTNAI:0保存规划时间： 64
+
+EnhanceAHTNAI:0保存规划时间： 315
+
+EnhanceAHTNAI:0重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 3
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+EnhanceAHTNAI:0失败修复的次数： 34
+
+EnhanceAHTNAI:0失败修复的次数： 19
+
+EnhanceAHTNAI:0规划总时间： 9561.0
+
+EnhanceAHTNAI:0规划总时间： 35858.0
+
+EnhanceAHTNAI:0规划平均时间： 6.0
+
+EnhanceAHTNAI:0规划平均总时间： 22.0
+
+EnhanceAHTNAI:0保存规划时间： 108
+
+EnhanceAHTNAI:0保存规划时间： 436
+
+EnhanceAHTNAI:0重规划时间： 2
+
+EnhanceAHTNAI:0重规划时间： 2
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+EnhanceAHTNAI:0失败修复的次数： 32
+
+AHTNAI:失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 5013.0
+
+AHTNAI:规划总时间： 2875.0
+
+EnhanceAHTNAI:0规划平均时间： 7.0
+
+AHTNAI:规划平均总时间： 3.0
+
+EnhanceAHTNAI:0保存规划时间： 61
+
+AHTNAI:保存规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+EnhanceAHTNAI:0失败修复的次数： 33
+
+AHTNAI:失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 3322.0
+
+AHTNAI:规划总时间： 4284.0
+
+EnhanceAHTNAI:0规划平均时间： 2.0
+
+AHTNAI:规划平均总时间： 2.0
+
+EnhanceAHTNAI:0保存规划时间： 45
+
+AHTNAI:保存规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+repair by plan
+
+repair by plan
+
+EnhanceAHTNAI:0失败修复的次数： 2
+
+RandomBiasedAI失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 4460.0
+
+RandomBiasedAI规划总时间： 1.0
+
+EnhanceAHTNAI:0规划平均时间： 7.0
+
+RandomBiasedAI规划平均总时间： 0.0
+
+EnhanceAHTNAI:0保存规划时间： 90
+
+RandomBiasedAI保存规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+EnhanceAHTNAI:0失败修复的次数： 0
+
+LightRush失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 3709.0
+
+LightRush规划总时间： 5.0
+
+EnhanceAHTNAI:0规划平均时间： 10.0
+
+LightRush规划平均总时间： 0.0
+
+EnhanceAHTNAI:0保存规划时间： 81
+
+LightRush保存规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+LightRush重规划时间： 0
+
+EnhanceAHTNAI:0失败修复的次数： 0
+
+HeavyRush失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 4414.0
+
+HeavyRush规划总时间： 5.0
+
+EnhanceAHTNAI:0规划平均时间： 10.0
+
+HeavyRush规划平均总时间： 0.0
+
+EnhanceAHTNAI:0保存规划时间： 74
+
+HeavyRush保存规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+HeavyRush重规划时间： 0
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+EnhanceAHTNAI:0失败修复的次数： 17
+
+UCT(50)失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 5137.0
+
+UCT(50)规划总时间： 194.0
+
+EnhanceAHTNAI:0规划平均时间： 6.0
+
+UCT(50)规划平均总时间： 0.0
+
+EnhanceAHTNAI:0保存规划时间： 98
+
+UCT(50)保存规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+UCT(50)重规划时间： 0
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair failed
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair failed
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+EnhanceAHTNAI:0失败修复的次数： 2
+
+EnhanceAHTNAI:0失败修复的次数： 49
+
+EnhanceAHTNAI:0规划总时间： 4342.0
+
+EnhanceAHTNAI:0规划总时间： 1913.0
+
+EnhanceAHTNAI:0规划平均时间： 5.0
+
+EnhanceAHTNAI:0规划平均总时间： 1.0
+
+EnhanceAHTNAI:0保存规划时间： 84
+
+EnhanceAHTNAI:0保存规划时间： 31
+
+EnhanceAHTNAI:0重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 11
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair failed
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair failed
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+EnhanceAHTNAI:0失败修复的次数： 2
+
+EnhanceAHTNAI:0失败修复的次数： 49
+
+EnhanceAHTNAI:0规划总时间： 8222.0
+
+EnhanceAHTNAI:0规划总时间： 7094.0
+
+EnhanceAHTNAI:0规划平均时间： 11.0
+
+EnhanceAHTNAI:0规划平均总时间： 8.0
+
+EnhanceAHTNAI:0保存规划时间： 157
+
+EnhanceAHTNAI:0保存规划时间： 82
+
+EnhanceAHTNAI:0重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 3
+
+EnhanceAHTNAI:0失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 5984.0
+
+AHTNAI:规划总时间： 1632.0
+
+EnhanceAHTNAI:0规划平均时间： 10.0
+
+AHTNAI:规划平均总时间： 0.0
+
+EnhanceAHTNAI:0保存规划时间： 100
+
+AHTNAI:保存规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+EnhanceAHTNAI:0失败修复的次数： 7
+
+AHTNAI:失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 9595.0
+
+AHTNAI:规划总时间： 5429.0
+
+EnhanceAHTNAI:0规划平均时间： 11.0
+
+AHTNAI:规划平均总时间： 1.0
+
+EnhanceAHTNAI:0保存规划时间： 132
+
+AHTNAI:保存规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 47
+
+AHTNAI:重规划时间： 0
+
+AHTNAI:失败修复的次数： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+AHTNAI:规划总时间： 17986.0
+
+RandomBiasedAI规划总时间： 10.0
+
+AHTNAI:规划平均时间： 21.0
+
+RandomBiasedAI规划平均总时间： 0.0
+
+AHTNAI:保存规划时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+AHTNAI:失败修复的次数： 0
+
+LightRush失败修复的次数： 0
+
+AHTNAI:规划总时间： 2796.0
+
+LightRush规划总时间： 14.0
+
+AHTNAI:规划平均时间： 3.0
+
+LightRush规划平均总时间： 0.0
+
+AHTNAI:保存规划时间： 0
+
+LightRush保存规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+LightRush重规划时间： 0
+
+AHTNAI:失败修复的次数： 0
+
+HeavyRush失败修复的次数： 0
+
+AHTNAI:规划总时间： 4691.0
+
+HeavyRush规划总时间： 10.0
+
+AHTNAI:规划平均时间： 9.0
+
+HeavyRush规划平均总时间： 0.0
+
+AHTNAI:保存规划时间： 0
+
+HeavyRush保存规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+HeavyRush重规划时间： 0
+
+AHTNAI:失败修复的次数： 0
+
+UCT(50)失败修复的次数： 0
+
+AHTNAI:规划总时间： 203707.0
+
+UCT(50)规划总时间： 2303.0
+
+AHTNAI:规划平均时间： 140.0
+
+UCT(50)规划平均总时间： 0.0
+
+AHTNAI:保存规划时间： 0
+
+UCT(50)保存规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+UCT(50)重规划时间： 0
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair failed
+
+AHTNAI:失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 54
+
+AHTNAI:规划总时间： 3320.0
+
+EnhanceAHTNAI:0规划总时间： 4800.0
+
+AHTNAI:规划平均时间： 0.0
+
+EnhanceAHTNAI:0规划平均总时间： 6.0
+
+AHTNAI:保存规划时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 42
+
+AHTNAI:重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 1
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+AHTNAI:失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 32
+
+AHTNAI:规划总时间： 1381.0
+
+EnhanceAHTNAI:0规划总时间： 4657.0
+
+AHTNAI:规划平均时间： 0.0
+
+EnhanceAHTNAI:0规划平均总时间： 9.0
+
+AHTNAI:保存规划时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 64
+
+AHTNAI:重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 2
+
+AHTNAI:失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+AHTNAI:规划总时间： 3416.0
+
+AHTNAI:规划总时间： 8084.0
+
+AHTNAI:规划平均时间： 0.0
+
+AHTNAI:规划平均总时间： 14.0
+
+AHTNAI:保存规划时间： 0
+
+AHTNAI:保存规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+AHTNAI:失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+AHTNAI:规划总时间： 2547.0
+
+AHTNAI:规划总时间： 5315.0
+
+AHTNAI:规划平均时间： 2.0
+
+AHTNAI:规划平均总时间： 10.0
+
+AHTNAI:保存规划时间： 0
+
+AHTNAI:保存规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+AHTNAI:失败修复的次数： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+AHTNAI:规划总时间： 5488.0
+
+RandomBiasedAI规划总时间： 6.0
+
+AHTNAI:规划平均时间： 10.0
+
+RandomBiasedAI规划平均总时间： 0.0
+
+AHTNAI:保存规划时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+AHTNAI:失败修复的次数： 0
+
+LightRush失败修复的次数： 0
+
+AHTNAI:规划总时间： 4812.0
+
+LightRush规划总时间： 13.0
+
+AHTNAI:规划平均时间： 10.0
+
+LightRush规划平均总时间： 0.0
+
+AHTNAI:保存规划时间： 0
+
+LightRush保存规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+LightRush重规划时间： 0
+
+AHTNAI:失败修复的次数： 0
+
+HeavyRush失败修复的次数： 0
+
+AHTNAI:规划总时间： 4636.0
+
+HeavyRush规划总时间： 8.0
+
+AHTNAI:规划平均时间： 10.0
+
+HeavyRush规划平均总时间： 0.0
+
+AHTNAI:保存规划时间： 0
+
+HeavyRush保存规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+HeavyRush重规划时间： 0
+
+AHTNAI:失败修复的次数： 0
+
+UCT(50)失败修复的次数： 0
+
+AHTNAI:规划总时间： 6386.0
+
+UCT(50)规划总时间： 217.0
+
+AHTNAI:规划平均时间： 11.0
+
+UCT(50)规划平均总时间： 0.0
+
+AHTNAI:保存规划时间： 0
+
+UCT(50)保存规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+UCT(50)重规划时间： 0
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+AHTNAI:失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 54
+
+AHTNAI:规划总时间： 4952.0
+
+EnhanceAHTNAI:0规划总时间： 2236.0
+
+AHTNAI:规划平均时间： 6.0
+
+EnhanceAHTNAI:0规划平均总时间： 0.0
+
+AHTNAI:保存规划时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 48
+
+AHTNAI:重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 2
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+repair by plan
+
+AHTNAI:失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 18
+
+AHTNAI:规划总时间： 7428.0
+
+EnhanceAHTNAI:0规划总时间： 6206.0
+
+AHTNAI:规划平均时间： 7.0
+
+EnhanceAHTNAI:0规划平均总时间： 7.0
+
+AHTNAI:保存规划时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 94
+
+AHTNAI:重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 1
+
+AHTNAI:失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+AHTNAI:规划总时间： 3960.0
+
+AHTNAI:规划总时间： 1225.0
+
+AHTNAI:规划平均时间： 5.0
+
+AHTNAI:规划平均总时间： 0.0
+
+AHTNAI:保存规划时间： 0
+
+AHTNAI:保存规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+AHTNAI:失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+AHTNAI:规划总时间： 5071.0
+
+AHTNAI:规划总时间： 4841.0
+
+AHTNAI:规划平均时间： 7.0
+
+AHTNAI:规划平均总时间： 6.0
+
+AHTNAI:保存规划时间： 0
+
+AHTNAI:保存规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+AHTNAI:重规划时间： 0
+

@@ -1,0 +1,840 @@
+RandomBiasedAI规划总时间： 40.0
+
+RandomBiasedAI规划总时间： 15.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+RandomBiasedAI规划总时间： 4.0
+
+RandomBiasedAI规划总时间： 1.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+RandomBiasedAI规划总时间： 11.0
+
+RandomBiasedAI规划总时间： 1.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+RandomBiasedAI规划总时间： 2.0
+
+RandomBiasedAI规划总时间： 3.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+RandomBiasedAI规划总时间： 1.0
+
+RandomBiasedAI规划总时间： 1.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+RandomBiasedAI规划总时间： 2.0
+
+RandomBiasedAI规划总时间： 0.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+RandomBiasedAI规划总时间： 9.0
+
+RandomBiasedAI规划总时间： 0.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+RandomBiasedAI规划总时间： 1.0
+
+RandomBiasedAI规划总时间： 1.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+RandomBiasedAI规划总时间： 0.0
+
+RandomBiasedAI规划总时间： 0.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+RandomBiasedAI规划总时间： 0.0
+
+RandomBiasedAI规划总时间： 0.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+RandomBiasedAI规划总时间： 0.0
+
+LightRush规划总时间： 14.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+LightRush规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+LightRush节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+LightRushHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+LightRush保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+LightRush重规划时间： 0
+
+RandomBiasedAI规划总时间： 0.0
+
+LightRush规划总时间： 10.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+LightRush规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+LightRush节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+LightRushHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+LightRush保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+LightRush重规划时间： 0
+
+RandomBiasedAI规划总时间： 0.0
+
+LightRush规划总时间： 0.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+LightRush规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+LightRush节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+LightRushHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+LightRush保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+LightRush重规划时间： 0
+
+RandomBiasedAI规划总时间： 0.0
+
+LightRush规划总时间： 3.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+LightRush规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+LightRush节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+LightRushHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+LightRush保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+LightRush重规划时间： 0
+
+RandomBiasedAI规划总时间： 1.0
+
+LightRush规划总时间： 3.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+LightRush规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+LightRush节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+LightRushHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+LightRush保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+LightRush重规划时间： 0
+
+RandomBiasedAI规划总时间： 0.0
+
+LightRush规划总时间： 1.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+LightRush规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+LightRush节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+LightRushHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+LightRush保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+LightRush重规划时间： 0
+
+RandomBiasedAI规划总时间： 1.0
+
+LightRush规划总时间： 9.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+LightRush规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+LightRush节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+LightRushHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+LightRush保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+LightRush重规划时间： 0
+
+RandomBiasedAI规划总时间： 0.0
+
+LightRush规划总时间： 1.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+LightRush规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+LightRush节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+LightRushHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+LightRush保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+LightRush重规划时间： 0
+
+RandomBiasedAI规划总时间： 3.0
+
+LightRush规划总时间： 10.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+LightRush规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+LightRush节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+LightRushHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+LightRush保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+LightRush重规划时间： 0
+
+RandomBiasedAI规划总时间： 0.0
+
+LightRush规划总时间： 1.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+LightRush规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+LightRush节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+LightRushHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+LightRush保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+LightRush重规划时间： 0
+
+RandomBiasedAI规划总时间： 0.0
+
+HeavyRush规划总时间： 5.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+HeavyRush规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+HeavyRush节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+HeavyRushHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+HeavyRush保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+HeavyRush重规划时间： 0
+
+RandomBiasedAI规划总时间： 2.0
+
+HeavyRush规划总时间： 4.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+HeavyRush规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+HeavyRush节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+HeavyRushHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+HeavyRush保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+HeavyRush重规划时间： 0
+
+RandomBiasedAI规划总时间： 1.0
+
+HeavyRush规划总时间： 0.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+HeavyRush规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+HeavyRush节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+HeavyRushHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+HeavyRush保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+HeavyRush重规划时间： 0
+
+RandomBiasedAI规划总时间： 2.0
+
+HeavyRush规划总时间： 4.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+HeavyRush规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+HeavyRush节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+HeavyRushHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+HeavyRush保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+HeavyRush重规划时间： 0
+
+RandomBiasedAI规划总时间： 0.0
+
+HeavyRush规划总时间： 0.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+HeavyRush规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+HeavyRush节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+HeavyRushHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+HeavyRush保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+HeavyRush重规划时间： 0
+
+RandomBiasedAI规划总时间： 0.0
+
+HeavyRush规划总时间： 0.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+HeavyRush规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+HeavyRush节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+HeavyRushHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+HeavyRush保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+HeavyRush重规划时间： 0
+
+RandomBiasedAI规划总时间： 0.0
+
+HeavyRush规划总时间： 0.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+HeavyRush规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+HeavyRush节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+HeavyRushHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+HeavyRush保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+HeavyRush重规划时间： 0
+
+RandomBiasedAI规划总时间： 0.0
+
+HeavyRush规划总时间： 0.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+HeavyRush规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+HeavyRush节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+HeavyRushHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+HeavyRush保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+HeavyRush重规划时间： 0
+
+RandomBiasedAI规划总时间： 0.0
+
+HeavyRush规划总时间： 0.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+HeavyRush规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+HeavyRush节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+HeavyRushHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+HeavyRush保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+HeavyRush重规划时间： 0
+
+RandomBiasedAI规划总时间： 0.0
+
+HeavyRush规划总时间： 0.0
+
+规划次数： 0.0
+
+规划次数： 0.0
+
+RandomBiasedAI规划平均时间： 0.0
+
+HeavyRush规划平均时间： 0.0
+
+RandomBiasedAI节点数目： 0.0
+
+HeavyRush节点数目： 0.0
+
+RandomBiasedAIHTN深度： 0.0
+
+HeavyRushHTN深度： 0.0
+
+RandomBiasedAI保存规划时间： 0
+
+HeavyRush保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+HeavyRush重规划时间： 0
+

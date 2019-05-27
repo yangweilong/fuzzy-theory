@@ -1,0 +1,1024 @@
+RandomBiasedAI失败修复的次数： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+RandomBiasedAI规划总时间： 30.0
+
+RandomBiasedAI规划总时间： 12.0
+
+RandomBiasedAI保存规划时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+LightRush失败修复的次数： 0
+
+RandomBiasedAI规划总时间： 0.0
+
+LightRush规划总时间： 13.0
+
+RandomBiasedAI保存规划时间： 0
+
+LightRush保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+LightRush重规划时间： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+HeavyRush失败修复的次数： 0
+
+RandomBiasedAI规划总时间： 7.0
+
+HeavyRush规划总时间： 24.0
+
+RandomBiasedAI保存规划时间： 0
+
+HeavyRush保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+HeavyRush重规划时间： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+UCT(80)失败修复的次数： 0
+
+RandomBiasedAI规划总时间： 7.0
+
+UCT(80)规划总时间： 595.0
+
+RandomBiasedAI保存规划时间： 0
+
+UCT(80)保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+UCT(80)重规划时间： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 24
+
+RandomBiasedAI规划总时间： 5.0
+
+EnhanceAHTNAI:0规划总时间： 11838.0
+
+RandomBiasedAI保存规划时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 2992
+
+RandomBiasedAI重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 1
+
+RandomBiasedAI失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 13
+
+RandomBiasedAI规划总时间： 0.0
+
+EnhanceAHTNAI:0规划总时间： 5294.0
+
+RandomBiasedAI保存规划时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 63
+
+RandomBiasedAI重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+RandomBiasedAI规划总时间： 3.0
+
+AHTNAI:规划总时间： 1938.0
+
+RandomBiasedAI保存规划时间： 0
+
+AHTNAI:保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+RandomBiasedAI规划总时间： 2.0
+
+AHTNAI:规划总时间： 4367.0
+
+RandomBiasedAI保存规划时间： 0
+
+AHTNAI:保存规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+LightRush失败修复的次数： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+LightRush规划总时间： 4.0
+
+RandomBiasedAI规划总时间： 1.0
+
+LightRush保存规划时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+LightRush重规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+LightRush失败修复的次数： 0
+
+LightRush失败修复的次数： 0
+
+LightRush规划总时间： 3.0
+
+LightRush规划总时间： 0.0
+
+LightRush保存规划时间： 0
+
+LightRush保存规划时间： 0
+
+LightRush重规划时间： 0
+
+LightRush重规划时间： 0
+
+LightRush失败修复的次数： 0
+
+HeavyRush失败修复的次数： 0
+
+LightRush规划总时间： 4.0
+
+HeavyRush规划总时间： 7.0
+
+LightRush保存规划时间： 0
+
+HeavyRush保存规划时间： 0
+
+LightRush重规划时间： 0
+
+HeavyRush重规划时间： 0
+
+LightRush失败修复的次数： 0
+
+UCT(80)失败修复的次数： 0
+
+LightRush规划总时间： 2.0
+
+UCT(80)规划总时间： 41.0
+
+LightRush保存规划时间： 0
+
+UCT(80)保存规划时间： 0
+
+LightRush重规划时间： 0
+
+UCT(80)重规划时间： 0
+
+LightRush失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 0
+
+LightRush规划总时间： 3.0
+
+EnhanceAHTNAI:0规划总时间： 544.0
+
+LightRush保存规划时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 21
+
+LightRush重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+LightRush失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 0
+
+LightRush规划总时间： 4.0
+
+EnhanceAHTNAI:0规划总时间： 3324.0
+
+LightRush保存规划时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 49
+
+LightRush重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+LightRush失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+LightRush规划总时间： 1.0
+
+AHTNAI:规划总时间： 784.0
+
+LightRush保存规划时间： 0
+
+AHTNAI:保存规划时间： 0
+
+LightRush重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+LightRush失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+LightRush规划总时间： 1.0
+
+AHTNAI:规划总时间： 2171.0
+
+LightRush保存规划时间： 0
+
+AHTNAI:保存规划时间： 0
+
+LightRush重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+HeavyRush失败修复的次数： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+HeavyRush规划总时间： 5.0
+
+RandomBiasedAI规划总时间： 0.0
+
+HeavyRush保存规划时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+HeavyRush重规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+HeavyRush失败修复的次数： 0
+
+LightRush失败修复的次数： 0
+
+HeavyRush规划总时间： 2.0
+
+LightRush规划总时间： 0.0
+
+HeavyRush保存规划时间： 0
+
+LightRush保存规划时间： 0
+
+HeavyRush重规划时间： 0
+
+LightRush重规划时间： 0
+
+HeavyRush失败修复的次数： 0
+
+HeavyRush失败修复的次数： 0
+
+HeavyRush规划总时间： 47.0
+
+HeavyRush规划总时间： 0.0
+
+HeavyRush保存规划时间： 0
+
+HeavyRush保存规划时间： 0
+
+HeavyRush重规划时间： 0
+
+HeavyRush重规划时间： 0
+
+HeavyRush失败修复的次数： 0
+
+UCT(80)失败修复的次数： 0
+
+HeavyRush规划总时间： 3.0
+
+UCT(80)规划总时间： 49.0
+
+HeavyRush保存规划时间： 0
+
+UCT(80)保存规划时间： 0
+
+HeavyRush重规划时间： 0
+
+UCT(80)重规划时间： 0
+
+HeavyRush失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 0
+
+HeavyRush规划总时间： 5.0
+
+EnhanceAHTNAI:0规划总时间： 1128.0
+
+HeavyRush保存规划时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 20
+
+HeavyRush重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+HeavyRush失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 1
+
+HeavyRush规划总时间： 2.0
+
+EnhanceAHTNAI:0规划总时间： 3494.0
+
+HeavyRush保存规划时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 52
+
+HeavyRush重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+HeavyRush失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+HeavyRush规划总时间： 2.0
+
+AHTNAI:规划总时间： 597.0
+
+HeavyRush保存规划时间： 0
+
+AHTNAI:保存规划时间： 0
+
+HeavyRush重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+HeavyRush失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+HeavyRush规划总时间： 0.0
+
+AHTNAI:规划总时间： 2333.0
+
+HeavyRush保存规划时间： 0
+
+AHTNAI:保存规划时间： 0
+
+HeavyRush重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+UCT(80)失败修复的次数： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+UCT(80)规划总时间： 178.0
+
+RandomBiasedAI规划总时间： 4.0
+
+UCT(80)保存规划时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+UCT(80)重规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+UCT(80)失败修复的次数： 0
+
+LightRush失败修复的次数： 0
+
+UCT(80)规划总时间： 117.0
+
+LightRush规划总时间： 12.0
+
+UCT(80)保存规划时间： 0
+
+LightRush保存规划时间： 0
+
+UCT(80)重规划时间： 0
+
+LightRush重规划时间： 0
+
+UCT(80)失败修复的次数： 0
+
+HeavyRush失败修复的次数： 0
+
+UCT(80)规划总时间： 180.0
+
+HeavyRush规划总时间： 35.0
+
+UCT(80)保存规划时间： 0
+
+HeavyRush保存规划时间： 0
+
+UCT(80)重规划时间： 0
+
+HeavyRush重规划时间： 0
+
+UCT(80)失败修复的次数： 0
+
+UCT(80)失败修复的次数： 0
+
+UCT(80)规划总时间： 100.0
+
+UCT(80)规划总时间： 2173.0
+
+UCT(80)保存规划时间： 0
+
+UCT(80)保存规划时间： 0
+
+UCT(80)重规划时间： 0
+
+UCT(80)重规划时间： 0
+
+UCT(80)失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 36
+
+UCT(80)规划总时间： 99.0
+
+EnhanceAHTNAI:0规划总时间： 7777.0
+
+UCT(80)保存规划时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 20
+
+UCT(80)重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+UCT(80)失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 16
+
+UCT(80)规划总时间： 45.0
+
+EnhanceAHTNAI:0规划总时间： 4284.0
+
+UCT(80)保存规划时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 72
+
+UCT(80)重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+UCT(80)失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+UCT(80)规划总时间： 43.0
+
+AHTNAI:规划总时间： 7234.0
+
+UCT(80)保存规划时间： 0
+
+AHTNAI:保存规划时间： 0
+
+UCT(80)重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+UCT(80)失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+UCT(80)规划总时间： 32.0
+
+AHTNAI:规划总时间： 2656.0
+
+UCT(80)保存规划时间： 0
+
+AHTNAI:保存规划时间： 0
+
+UCT(80)重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+EnhanceAHTNAI:0失败修复的次数： 23
+
+RandomBiasedAI失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 22645.0
+
+RandomBiasedAI规划总时间： 11.0
+
+EnhanceAHTNAI:0保存规划时间： 6610
+
+RandomBiasedAI保存规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 1
+
+RandomBiasedAI重规划时间： 0
+
+EnhanceAHTNAI:0失败修复的次数： 0
+
+LightRush失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 1119.0
+
+LightRush规划总时间： 4.0
+
+EnhanceAHTNAI:0保存规划时间： 26
+
+LightRush保存规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+LightRush重规划时间： 0
+
+EnhanceAHTNAI:0失败修复的次数： 0
+
+HeavyRush失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 1421.0
+
+HeavyRush规划总时间： 5.0
+
+EnhanceAHTNAI:0保存规划时间： 18
+
+HeavyRush保存规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+HeavyRush重规划时间： 0
+
+EnhanceAHTNAI:0失败修复的次数： 39
+
+UCT(80)失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 6660.0
+
+UCT(80)规划总时间： 423.0
+
+EnhanceAHTNAI:0保存规划时间： 66
+
+UCT(80)保存规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+UCT(80)重规划时间： 0
+
+EnhanceAHTNAI:0失败修复的次数： 25
+
+EnhanceAHTNAI:0失败修复的次数： 33
+
+EnhanceAHTNAI:0规划总时间： 2178.0
+
+EnhanceAHTNAI:0规划总时间： 1761.0
+
+EnhanceAHTNAI:0保存规划时间： 29
+
+EnhanceAHTNAI:0保存规划时间： 43
+
+EnhanceAHTNAI:0重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 1
+
+EnhanceAHTNAI:0失败修复的次数： 33
+
+EnhanceAHTNAI:0失败修复的次数： 25
+
+EnhanceAHTNAI:0规划总时间： 4283.0
+
+EnhanceAHTNAI:0规划总时间： 4277.0
+
+EnhanceAHTNAI:0保存规划时间： 35
+
+EnhanceAHTNAI:0保存规划时间： 67
+
+EnhanceAHTNAI:0重规划时间： 1
+
+EnhanceAHTNAI:0重规划时间： 0
+
+EnhanceAHTNAI:0失败修复的次数： 29
+
+AHTNAI:失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 2286.0
+
+AHTNAI:规划总时间： 1424.0
+
+EnhanceAHTNAI:0保存规划时间： 34
+
+AHTNAI:保存规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+EnhanceAHTNAI:0失败修复的次数： 32
+
+AHTNAI:失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 2336.0
+
+AHTNAI:规划总时间： 2898.0
+
+EnhanceAHTNAI:0保存规划时间： 34
+
+AHTNAI:保存规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+EnhanceAHTNAI:0失败修复的次数： 2
+
+RandomBiasedAI失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 5919.0
+
+RandomBiasedAI规划总时间： 3.0
+
+EnhanceAHTNAI:0保存规划时间： 95
+
+RandomBiasedAI保存规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+EnhanceAHTNAI:0失败修复的次数： 0
+
+LightRush失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 3212.0
+
+LightRush规划总时间： 6.0
+
+EnhanceAHTNAI:0保存规划时间： 43
+
+LightRush保存规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+LightRush重规划时间： 0
+
+EnhanceAHTNAI:0失败修复的次数： 0
+
+HeavyRush失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 3279.0
+
+HeavyRush规划总时间： 3.0
+
+EnhanceAHTNAI:0保存规划时间： 39
+
+HeavyRush保存规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+HeavyRush重规划时间： 0
+
+EnhanceAHTNAI:0失败修复的次数： 12
+
+UCT(80)失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 2920.0
+
+UCT(80)规划总时间： 133.0
+
+EnhanceAHTNAI:0保存规划时间： 60
+
+UCT(80)保存规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+UCT(80)重规划时间： 0
+
+EnhanceAHTNAI:0失败修复的次数： 3
+
+EnhanceAHTNAI:0失败修复的次数： 44
+
+EnhanceAHTNAI:0规划总时间： 3833.0
+
+EnhanceAHTNAI:0规划总时间： 1403.0
+
+EnhanceAHTNAI:0保存规划时间： 40
+
+EnhanceAHTNAI:0保存规划时间： 20
+
+EnhanceAHTNAI:0重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 3
+
+EnhanceAHTNAI:0失败修复的次数： 5
+
+EnhanceAHTNAI:0失败修复的次数： 54
+
+EnhanceAHTNAI:0规划总时间： 20853.0
+
+EnhanceAHTNAI:0规划总时间： 10199.0
+
+EnhanceAHTNAI:0保存规划时间： 137
+
+EnhanceAHTNAI:0保存规划时间： 123
+
+EnhanceAHTNAI:0重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 1
+
+EnhanceAHTNAI:0失败修复的次数： 7
+
+AHTNAI:失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 4117.0
+
+AHTNAI:规划总时间： 1176.0
+
+EnhanceAHTNAI:0保存规划时间： 63
+
+AHTNAI:保存规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+EnhanceAHTNAI:0失败修复的次数： 5
+
+AHTNAI:失败修复的次数： 0
+
+EnhanceAHTNAI:0规划总时间： 18535.0
+
+AHTNAI:规划总时间： 7129.0
+
+EnhanceAHTNAI:0保存规划时间： 138
+
+AHTNAI:保存规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+AHTNAI:失败修复的次数： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+AHTNAI:规划总时间： 6897.0
+
+RandomBiasedAI规划总时间： 5.0
+
+AHTNAI:保存规划时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+AHTNAI:失败修复的次数： 0
+
+LightRush失败修复的次数： 0
+
+AHTNAI:规划总时间： 936.0
+
+LightRush规划总时间： 11.0
+
+AHTNAI:保存规划时间： 0
+
+LightRush保存规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+LightRush重规划时间： 0
+
+AHTNAI:失败修复的次数： 0
+
+HeavyRush失败修复的次数： 0
+
+AHTNAI:规划总时间： 770.0
+
+HeavyRush规划总时间： 2.0
+
+AHTNAI:保存规划时间： 0
+
+HeavyRush保存规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+HeavyRush重规划时间： 0
+
+AHTNAI:失败修复的次数： 0
+
+UCT(80)失败修复的次数： 0
+
+AHTNAI:规划总时间： 3261.0
+
+UCT(80)规划总时间： 158.0
+
+AHTNAI:保存规划时间： 0
+
+UCT(80)保存规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+UCT(80)重规划时间： 0
+
+AHTNAI:失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 31
+
+AHTNAI:规划总时间： 1086.0
+
+EnhanceAHTNAI:0规划总时间： 1481.0
+
+AHTNAI:保存规划时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 29
+
+AHTNAI:重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 2
+
+AHTNAI:失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 18
+
+AHTNAI:规划总时间： 835.0
+
+EnhanceAHTNAI:0规划总时间： 3037.0
+
+AHTNAI:保存规划时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 39
+
+AHTNAI:重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+AHTNAI:失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+AHTNAI:规划总时间： 1926.0
+
+AHTNAI:规划总时间： 1516.0
+
+AHTNAI:保存规划时间： 0
+
+AHTNAI:保存规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+AHTNAI:失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+AHTNAI:规划总时间： 1281.0
+
+AHTNAI:规划总时间： 3481.0
+
+AHTNAI:保存规划时间： 0
+
+AHTNAI:保存规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+AHTNAI:失败修复的次数： 0
+
+RandomBiasedAI失败修复的次数： 0
+
+AHTNAI:规划总时间： 4028.0
+
+RandomBiasedAI规划总时间： 5.0
+
+AHTNAI:保存规划时间： 0
+
+RandomBiasedAI保存规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+RandomBiasedAI重规划时间： 0
+
+AHTNAI:失败修复的次数： 0
+
+LightRush失败修复的次数： 0
+
+AHTNAI:规划总时间： 3403.0
+
+LightRush规划总时间： 4.0
+
+AHTNAI:保存规划时间： 0
+
+LightRush保存规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+LightRush重规划时间： 0
+
+AHTNAI:失败修复的次数： 0
+
+HeavyRush失败修复的次数： 0
+
+AHTNAI:规划总时间： 2138.0
+
+HeavyRush规划总时间： 4.0
+
+AHTNAI:保存规划时间： 0
+
+HeavyRush保存规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+HeavyRush重规划时间： 0
+
+AHTNAI:失败修复的次数： 0
+
+UCT(80)失败修复的次数： 0
+
+AHTNAI:规划总时间： 2031.0
+
+UCT(80)规划总时间： 110.0
+
+AHTNAI:保存规划时间： 0
+
+UCT(80)保存规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+UCT(80)重规划时间： 0
+
+AHTNAI:失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 41
+
+AHTNAI:规划总时间： 2187.0
+
+EnhanceAHTNAI:0规划总时间： 870.0
+
+AHTNAI:保存规划时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 20
+
+AHTNAI:重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 0
+
+AHTNAI:失败修复的次数： 0
+
+EnhanceAHTNAI:0失败修复的次数： 33
+
+AHTNAI:规划总时间： 6662.0
+
+EnhanceAHTNAI:0规划总时间： 5967.0
+
+AHTNAI:保存规划时间： 0
+
+EnhanceAHTNAI:0保存规划时间： 94
+
+AHTNAI:重规划时间： 0
+
+EnhanceAHTNAI:0重规划时间： 1
+
+AHTNAI:失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+AHTNAI:规划总时间： 5545.0
+
+AHTNAI:规划总时间： 2767.0
+
+AHTNAI:保存规划时间： 0
+
+AHTNAI:保存规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+AHTNAI:失败修复的次数： 0
+
+AHTNAI:失败修复的次数： 0
+
+AHTNAI:规划总时间： 4111.0
+
+AHTNAI:规划总时间： 3970.0
+
+AHTNAI:保存规划时间： 0
+
+AHTNAI:保存规划时间： 0
+
+AHTNAI:重规划时间： 0
+
+AHTNAI:重规划时间： 0
+
